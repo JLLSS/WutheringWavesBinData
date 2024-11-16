@@ -273,7 +273,7 @@
     },
     {
         "ViewName": "NewMissionTips",
-        "Area": "Center",
+        "Area": "Top",
         "Priority": 5,
         "OnlyShowInMain": true,
         "RootItemIndex": 0,

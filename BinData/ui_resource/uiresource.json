@@ -8277,7 +8277,7 @@
     {
         "Id": "UiItem_CheckpointsRReward",
         "Path": "/Game/Aki/UI/UIResources/UiCheckpoints/Prefabs/UiItem_CheckpointsRReward.png",
-        "PcPath": ""
+        "PcPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Prefabs/PC/PC_UiItem_CheckpointsRReward.png"
     },
     {
         "Id": "UiItem_ActivityRoleGrowing",
@@ -8322,6 +8322,56 @@
     {
         "Id": "WeaponSkinRoleFadeOutCurve",
         "Path": "/Game/Aki/UI/UIResources/Common/LevelSequence/Curve/WeaponSkinRoleFadeOutCurve.png",
+        "PcPath": ""
+    },
+    {
+        "Id": "UiView_Infomation_PSAudio",
+        "Path": "/Game/Aki/UI/UIResources/UiInformation/Prefabs/UiView_InformationPSAudio.png",
+        "PcPath": "/Game/Aki/UI/UIResources/UiInformation/Prefabs/PC/PC_UiView_InformationPSAudio.png"
+    },
+    {
+        "Id": "UiItem_ActivityMowingTower",
+        "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivityBossRush/UiItem_ActivityBossrushA.png",
+        "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/ActivityBossRush/PC_UiItem_ActivityBossrushA.png"
+    },
+    {
+        "Id": "UiItem_ItemTagTeam",
+        "Path": "/Game/Aki/UI/UIResources/Common/Prefabs/Item/UiItem_ItemTagTeam.png",
+        "PcPath": ""
+    },
+    {
+        "Id": "SP_ComTagTeam1",
+        "Path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComTagTeam1.png",
+        "PcPath": ""
+    },
+    {
+        "Id": "SP_ComTagTeam2",
+        "Path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComTagTeam2.png",
+        "PcPath": ""
+    },
+    {
+        "Id": "UiView_BossRushA",
+        "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivityBossRush/UiView_BossRushA.png",
+        "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/ActivityBossRush/PC_UiView_BossRushA.png"
+    },
+    {
+        "Id": "UiView_BossRushEntry",
+        "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivityBossRush/UiView_BossRushEntry.png",
+        "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/ActivityBossRush/PC_UiView_BossRushEntry.png"
+    },
+    {
+        "Id": "UiView_BossrushRewardA",
+        "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivityBossRush/UiView_BossrushRewardA.png",
+        "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/ActivityBossRush/PC_UiView_BossrushRewardA.png"
+    },
+    {
+        "Id": "UiItem_ResultScoreA",
+        "Path": "/Game/Aki/UI/UIResources/UiTips/Prefabs/UiItem_ResultScoreA.png",
+        "PcPath": ""
+    },
+    {
+        "Id": "ActivitySignIn_1_4",
+        "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivitySignIn/UiItem_SignInA.png",
         "PcPath": ""
     }
 ]

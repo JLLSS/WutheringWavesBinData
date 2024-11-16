@@ -383,39 +383,5 @@
         "ConditionId": 0,
         "FloorName": "Area_12_Title",
         "FloorIcon": "SP_MapIcon3"
-    },
-    {
-        "Id": 22,
-        "GroupId": 8,
-        "MapId": 8,
-        "Floor": -1,
-        "MapTilePath": [
-            "T_MapSubTiles_0_-1_HQYH_LAYER1_UI",
-            "T_MapSubTiles_0_-2_HQYH_LAYER1_UI"
-        ],
-        "MiniMapTilePath": [
-            "T_MapSubTiles_0_-1_HQYH_LAYER1_UI",
-            "T_MapSubTiles_0_-2_HQYH_LAYER1_UI"
-        ],
-        "Area": [
-            802
-        ],
-        "Mark": [],
-        "ConditionId": 0,
-        "FloorName": "Area_802_Title",
-        "FloorIcon": "SP_MapIcon1"
-    },
-    {
-        "Id": 23,
-        "GroupId": 8,
-        "MapId": 8,
-        "Floor": 0,
-        "MapTilePath": [],
-        "MiniMapTilePath": [],
-        "Area": [],
-        "Mark": [],
-        "ConditionId": 0,
-        "FloorName": "Area_8_Title",
-        "FloorIcon": "SP_MapIcon3"
     }
 ]

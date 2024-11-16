@@ -390,5 +390,21 @@
         "TaskReward": {
             "8": 2000
         }
+    },
+    {
+        "TaskId": 334,
+        "TaskName": "BattlePassTask_334_TaskName",
+        "UpdateType": 0,
+        "TaskReward": {
+            "8": 2000
+        }
+    },
+    {
+        "TaskId": 335,
+        "TaskName": "BattlePassTask_335_TaskName",
+        "UpdateType": 0,
+        "TaskReward": {
+            "8": 2000
+        }
     }
 ]

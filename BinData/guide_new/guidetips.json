@@ -1753,7 +1753,9 @@
         "InputEnums": [
             "大招"
         ],
-        "LimitInputEnums": [],
+        "LimitInputEnums": [
+            "大招"
+        ],
         "UseLoopAnim": false,
         "UseMask": 0
     },

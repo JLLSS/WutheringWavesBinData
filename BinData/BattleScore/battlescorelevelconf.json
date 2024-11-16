@@ -118,5 +118,65 @@
             3000
         ],
         "Bgm": ""
+    },
+    {
+        "Id": 14,
+        "GroupId": 5,
+        "Level": 1,
+        "LowerUpperLimits": [
+            10,
+            750
+        ],
+        "Bgm": ""
+    },
+    {
+        "Id": 15,
+        "GroupId": 5,
+        "Level": 2,
+        "LowerUpperLimits": [
+            750,
+            2250
+        ],
+        "Bgm": ""
+    },
+    {
+        "Id": 16,
+        "GroupId": 5,
+        "Level": 3,
+        "LowerUpperLimits": [
+            2250,
+            4250
+        ],
+        "Bgm": ""
+    },
+    {
+        "Id": 17,
+        "GroupId": 5,
+        "Level": 4,
+        "LowerUpperLimits": [
+            4250,
+            6750
+        ],
+        "Bgm": ""
+    },
+    {
+        "Id": 18,
+        "GroupId": 5,
+        "Level": 5,
+        "LowerUpperLimits": [
+            6750,
+            9500
+        ],
+        "Bgm": ""
+    },
+    {
+        "Id": 19,
+        "GroupId": 5,
+        "Level": 6,
+        "LowerUpperLimits": [
+            9500,
+            12250
+        ],
+        "Bgm": ""
     }
 ]

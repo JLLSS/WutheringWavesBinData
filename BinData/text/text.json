@@ -5186,5 +5186,13 @@
     {
         "Id": "Text_EchoMaterialLack_Text",
         "Text": "Text_EchoMaterialLack_Text"
+    },
+    {
+        "Id": "DreamLinkDungeonUnlockTips",
+        "Text": "DreamLinkDungeonUnlockTips"
+    },
+    {
+        "Id": "MowingTowerMultiTips",
+        "Text": "MowingTowerMultiTips"
     }
 ]

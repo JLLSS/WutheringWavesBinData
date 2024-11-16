@@ -22,42 +22,42 @@
     {
         "Id": 313000007,
         "BehaviorTree": 313000007,
-        "RoomsMusicState": "stage1_xiaoguai1"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000008,
         "BehaviorTree": 313000008,
-        "RoomsMusicState": "stage1_challenge"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000025,
         "BehaviorTree": 313000025,
-        "RoomsMusicState": "stage1_challenge"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000026,
         "BehaviorTree": 313000026,
-        "RoomsMusicState": "stage1_boss2"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000005,
         "BehaviorTree": 313000005,
-        "RoomsMusicState": "stage1_elite1"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000006,
         "BehaviorTree": 313000006,
-        "RoomsMusicState": "stage1_challenge"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313700000,
         "BehaviorTree": 313700000,
-        "RoomsMusicState": "stage1_challenge"
+        "RoomsMusicState": ""
     },
     {
         "Id": 200000026,
         "BehaviorTree": 200000026,
-        "RoomsMusicState": "stage1_elite1"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313000011,
@@ -142,12 +142,12 @@
     {
         "Id": 313900039,
         "BehaviorTree": 313900039,
-        "RoomsMusicState": "stage1_endboss"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313900019,
         "BehaviorTree": 313900019,
-        "RoomsMusicState": "stage1_endboss"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313900020,
@@ -650,8 +650,108 @@
         "RoomsMusicState": "stage1_endboss"
     },
     {
+        "Id": 313000031,
+        "BehaviorTree": 313000031,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000032,
+        "BehaviorTree": 313000032,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000034,
+        "BehaviorTree": 313000034,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000035,
+        "BehaviorTree": 313000035,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000036,
+        "BehaviorTree": 313000036,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000039,
+        "BehaviorTree": 313000039,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000040,
+        "BehaviorTree": 313000040,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 313000033,
+        "BehaviorTree": 313000033,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800002,
+        "BehaviorTree": 312800002,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800006,
+        "BehaviorTree": 312800006,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800009,
+        "BehaviorTree": 312800009,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800010,
+        "BehaviorTree": 312800010,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800000,
+        "BehaviorTree": 314800000,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800001,
+        "BehaviorTree": 314800001,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800002,
+        "BehaviorTree": 314800002,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800004,
+        "BehaviorTree": 314800004,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800005,
+        "BehaviorTree": 314800005,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800006,
+        "BehaviorTree": 314800006,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 314800007,
+        "BehaviorTree": 314800007,
+        "RoomsMusicState": ""
+    },
+    {
         "Id": 313800030,
         "BehaviorTree": 313800030,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800001,
+        "BehaviorTree": 221800001,
         "RoomsMusicState": ""
     },
     {
@@ -662,12 +762,12 @@
     {
         "Id": 313800033,
         "BehaviorTree": 313800033,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_bulletrun"
     },
     {
         "Id": 313800034,
         "BehaviorTree": 313800034,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 227800000,
@@ -682,7 +782,7 @@
     {
         "Id": 313800035,
         "BehaviorTree": 313800035,
-        "RoomsMusicState": "stage1_endboss"
+        "RoomsMusicState": ""
     },
     {
         "Id": 226800002,
@@ -712,12 +812,22 @@
     {
         "Id": 316800008,
         "BehaviorTree": 316800008,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 316800007,
         "BehaviorTree": 316800007,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800011,
+        "BehaviorTree": 312800011,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800014,
+        "BehaviorTree": 312800014,
+        "RoomsMusicState": ""
     },
     {
         "Id": 227800001,
@@ -727,72 +837,72 @@
     {
         "Id": 226800000,
         "BehaviorTree": 226800000,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 316800011,
         "BehaviorTree": 316800011,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 313800037,
         "BehaviorTree": 313800037,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 313800038,
         "BehaviorTree": 313800038,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 313800039,
         "BehaviorTree": 313800039,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 313800040,
         "BehaviorTree": 313800040,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 316800012,
         "BehaviorTree": 316800012,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 316800013,
         "BehaviorTree": 316800013,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 226800004,
         "BehaviorTree": 226800004,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 226800005,
         "BehaviorTree": 226800005,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 227800002,
         "BehaviorTree": 227800002,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_bulletrun"
     },
     {
         "Id": 227800003,
         "BehaviorTree": 227800003,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_bulletrun"
     },
     {
         "Id": 226800006,
         "BehaviorTree": 226800006,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 316800014,
         "BehaviorTree": 316800014,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 313800036,
@@ -807,12 +917,12 @@
     {
         "Id": 227800004,
         "BehaviorTree": 227800004,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 226800008,
         "BehaviorTree": 226800008,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313800041,
@@ -827,7 +937,7 @@
     {
         "Id": 226800009,
         "BehaviorTree": 226800009,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 313800044,
@@ -840,24 +950,64 @@
         "RoomsMusicState": ""
     },
     {
+        "Id": 221800002,
+        "BehaviorTree": 221800002,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800003,
+        "BehaviorTree": 221800003,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800007,
+        "BehaviorTree": 221800007,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800004,
+        "BehaviorTree": 221800004,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800016,
+        "BehaviorTree": 312800016,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800017,
+        "BehaviorTree": 312800017,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 312800015,
+        "BehaviorTree": 312800015,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800011,
+        "BehaviorTree": 221800011,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800014,
+        "BehaviorTree": 221800014,
+        "RoomsMusicState": ""
+    },
+    {
+        "Id": 221800013,
+        "BehaviorTree": 221800013,
+        "RoomsMusicState": ""
+    },
+    {
         "Id": 316800016,
         "BehaviorTree": 316800016,
         "RoomsMusicState": "stage2_dangerous"
     },
     {
-        "Id": 316800017,
-        "BehaviorTree": 316800017,
-        "RoomsMusicState": "stage2_dangerous"
-    },
-    {
-        "Id": 316800018,
-        "BehaviorTree": 316800018,
-        "RoomsMusicState": "stage1_dangerous"
-    },
-    {
         "Id": 226800013,
         "BehaviorTree": 226800013,
-        "RoomsMusicState": ""
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 226800014,
@@ -867,12 +1017,17 @@
     {
         "Id": 226800015,
         "BehaviorTree": 226800015,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": "stage3_dangerous"
+    },
+    {
+        "Id": 312800018,
+        "BehaviorTree": 312800018,
+        "RoomsMusicState": ""
     },
     {
         "Id": 229800000,
         "BehaviorTree": 229800000,
-        "RoomsMusicState": "stage1_safe"
+        "RoomsMusicState": "stage3_safe"
     },
     {
         "Id": 316800019,
@@ -902,12 +1057,12 @@
     {
         "Id": 226800016,
         "BehaviorTree": 226800016,
-        "RoomsMusicState": "stage1_safe"
+        "RoomsMusicState": "stage3_safe"
     },
     {
         "Id": 316800024,
         "BehaviorTree": 316800024,
-        "RoomsMusicState": "stage1_safe"
+        "RoomsMusicState": "stage3_safe"
     },
     {
         "Id": 313800047,
@@ -918,6 +1073,11 @@
         "Id": 313800048,
         "BehaviorTree": 313800048,
         "RoomsMusicState": "stage2_dangerous"
+    },
+    {
+        "Id": 221800018,
+        "BehaviorTree": 221800018,
+        "RoomsMusicState": ""
     },
     {
         "Id": 226800017,

@@ -318,5 +318,10 @@
         "Id": 65,
         "RewardSourceId": 19718,
         "RewardViewId": 1009
+    },
+    {
+        "Id": 66,
+        "RewardSourceId": 25501,
+        "RewardViewId": 1009
     }
 ]

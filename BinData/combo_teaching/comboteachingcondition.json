@@ -2242,7 +2242,6 @@
         ],
         "FailedCondition": [
             0,
-            1,
             2
         ],
         "FailedParam": [
@@ -6638,19 +6637,10 @@
     },
     {
         "Id": 16030105,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603005,
-            0
-        ],
-        "FailedCondition": [
-            0,
-            1,
-            2
-        ],
-        "FailedParam": [
-            "1603005"
-        ]
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.普攻5]",
+        "FailedCondition": [],
+        "FailedParam": []
     },
     {
         "Id": 16030201,
@@ -6716,78 +6706,62 @@
     },
     {
         "Id": 16030601,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603111,
-            0
-        ],
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.空中普攻1]",
         "FailedCondition": [
-            0
+            0,
+            1
         ],
         "FailedParam": [
-            "1603111"
+            "1603111#1603211"
         ]
     },
     {
         "Id": 16030602,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603112,
-            0
-        ],
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.空中普攻2]",
         "FailedCondition": [
             0,
             1,
             2
         ],
         "FailedParam": [
-            "1603112"
+            "1603112#1603212"
         ]
     },
     {
         "Id": 16030603,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603113,
-            0
-        ],
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.空中普攻3]",
         "FailedCondition": [
             0,
             1,
             2
         ],
         "FailedParam": [
-            "1603113"
+            "1603113#1603213"
         ]
     },
     {
         "Id": 16030604,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603114,
-            0
-        ],
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.空中普攻3循环]",
         "FailedCondition": [
             0
         ],
         "FailedParam": [
-            "1603114"
+            "1603114#1603214"
         ]
     },
     {
         "Id": 16030605,
-        "CompleteCondition": 0,
-        "CompleteParam": [
-            1603115,
+        "CompleteCondition": 5,
+        "CompleteParam": "[角色.R2T1ChunMd10011.技能标识.空中普攻4]",
+        "FailedCondition": [
             0
         ],
-        "FailedCondition": [
-            0,
-            1,
-            2
-        ],
         "FailedParam": [
-            "1603115"
+            "1603115#1603215"
         ]
     },
     {
@@ -6856,7 +6830,6 @@
         ],
         "FailedCondition": [
             0,
-            1,
             2
         ],
         "FailedParam": [
@@ -6872,7 +6845,6 @@
         ],
         "FailedCondition": [
             0,
-            1,
             2
         ],
         "FailedParam": [
@@ -6896,14 +6868,8 @@
             1504093,
             0
         ],
-        "FailedCondition": [
-            0,
-            1,
-            2
-        ],
-        "FailedParam": [
-            "1504093"
-        ]
+        "FailedCondition": [],
+        "FailedParam": []
     },
     {
         "Id": 15040301,

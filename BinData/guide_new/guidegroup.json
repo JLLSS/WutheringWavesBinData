@@ -1870,7 +1870,7 @@
             264,
             10057
         ],
-        "OpenLimitCondition": 0,
+        "OpenLimitCondition": 131200222,
         "AutoOpenCondition": 0,
         "LimitRepeat": [
             -1
@@ -4224,7 +4224,8 @@
         "DungeonId": [
             8002,
             8007,
-            8012
+            8012,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -6701,9 +6702,10 @@
             -1
         ],
         "DungeonId": [
+            8002,
             8007,
-            8008,
-            8012
+            8012,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -6722,7 +6724,8 @@
         ],
         "DungeonId": [
             8007,
-            8012
+            8012,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -6868,7 +6871,8 @@
             8013,
             8014,
             8015,
-            8016
+            8016,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -6963,7 +6967,8 @@
         ],
         "DungeonId": [
             8007,
-            8012
+            8012,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -7290,7 +7295,8 @@
             -1
         ],
         "DungeonId": [
-            8012
+            8012,
+            8018
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -8293,7 +8299,7 @@
             614,
             615
         ],
-        "OpenLimitCondition": 0,
+        "OpenLimitCondition": 131200224,
         "AutoOpenCondition": 0,
         "LimitRepeat": [
             -1
@@ -8470,7 +8476,10 @@
         "DungeonId": [
             8021,
             8022,
-            8023
+            8023,
+            8018,
+            8019,
+            8020
         ],
         "ResetInDungeon": false,
         "OnlineMode": 1
@@ -8506,15 +8515,9 @@
             -1
         ],
         "DungeonId": [
-            8401,
-            8402,
-            8403,
-            8404,
-            8405,
-            8406,
-            8407
+            8406
         ],
-        "ResetInDungeon": false,
+        "ResetInDungeon": true,
         "OnlineMode": 1
     },
     {
@@ -8545,10 +8548,7 @@
         "Step": [
             634,
             635,
-            636,
-            637,
-            638,
-            639
+            636
         ],
         "OpenLimitCondition": 0,
         "AutoOpenCondition": 131200207,
@@ -8616,15 +8616,9 @@
             -1
         ],
         "DungeonId": [
-            8401,
-            8402,
-            8403,
-            8404,
-            8405,
-            8406,
-            8407
+            8406
         ],
-        "ResetInDungeon": false,
+        "ResetInDungeon": true,
         "OnlineMode": 1
     },
     {
@@ -8647,15 +8641,9 @@
             -1
         ],
         "DungeonId": [
-            8401,
-            8402,
-            8403,
-            8404,
-            8405,
-            8406,
-            8407
+            8406
         ],
-        "ResetInDungeon": false,
+        "ResetInDungeon": true,
         "OnlineMode": 1
     },
     {
@@ -8866,15 +8854,9 @@
             -1
         ],
         "DungeonId": [
-            8401,
-            8402,
-            8403,
-            8404,
-            8405,
-            8406,
-            8407
+            8406
         ],
-        "ResetInDungeon": false,
+        "ResetInDungeon": true,
         "OnlineMode": 1
     },
     {
@@ -8942,15 +8924,45 @@
             -1
         ],
         "DungeonId": [
-            8401,
-            8402,
-            8403,
-            8404,
-            8405,
-            8406,
-            8407
+            8406
         ],
-        "ResetInDungeon": false,
+        "ResetInDungeon": true,
+        "OnlineMode": 1
+    },
+    {
+        "Id": 2429190,
+        "Step": [
+            1217,
+            1218,
+            1219
+        ],
+        "OpenLimitCondition": 0,
+        "AutoOpenCondition": 0,
+        "LimitRepeat": [
+            -1
+        ],
+        "DungeonId": [
+            5029
+        ],
+        "ResetInDungeon": true,
+        "OnlineMode": 1
+    },
+    {
+        "Id": 2429191,
+        "Step": [
+            1220,
+            1221,
+            1222
+        ],
+        "OpenLimitCondition": 0,
+        "AutoOpenCondition": 0,
+        "LimitRepeat": [
+            -1
+        ],
+        "DungeonId": [
+            5029
+        ],
+        "ResetInDungeon": true,
         "OnlineMode": 1
     }
 ]

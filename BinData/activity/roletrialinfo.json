@@ -40,7 +40,7 @@
         "RoleId": 1305,
         "TrialRoleId": 13057004,
         "InstanceText": "",
-        "InstanceId": 8201,
+        "InstanceId": 8225,
         "RewardItem": {
             "3": 20,
             "43010003": 2,
@@ -293,6 +293,18 @@
         "TrialRoleId": 16017004,
         "InstanceText": "",
         "InstanceId": 8216,
+        "RewardItem": {
+            "2": 10000,
+            "43010002": 2,
+            "43020002": 2
+        }
+    },
+    {
+        "Id": 8217,
+        "RoleId": 1102,
+        "TrialRoleId": 11027004,
+        "InstanceText": "",
+        "InstanceId": 8110,
         "RewardItem": {
             "2": 10000,
             "43010002": 2,

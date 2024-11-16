@@ -105,11 +105,11 @@
     },
     {
         "RoleId": 1102,
-        "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleSanhua.png",
-        "RoleStand2": "",
-        "RoleIcon": "",
+        "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodySanhua.png",
+        "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueSanhua.png",
+        "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabSanhua.png",
         "UiConfigId": 4,
-        "Introduction": ""
+        "Introduction": "FavorRoleInfo_1102_Info"
     },
     {
         "RoleId": 1205,
@@ -121,11 +121,11 @@
     },
     {
         "RoleId": 1305,
-        "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiangliyao.png",
-        "RoleStand2": "",
-        "RoleIcon": "",
+        "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyXiangliyao.png",
+        "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueXiangliyao.png",
+        "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabXiangliyao.png",
         "UiConfigId": 4,
-        "Introduction": ""
+        "Introduction": "FavorRoleInfo_1305_Info"
     },
     {
         "RoleId": 1105,

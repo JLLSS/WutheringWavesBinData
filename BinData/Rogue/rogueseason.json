@@ -52,7 +52,7 @@
             "8016": 3515
         },
         "ShopId": 206,
-        "Achievement": 10,
+        "Achievement": 9,
         "ParamId": 3,
         "RogueThemeType": "ZhongQu"
     },
@@ -81,9 +81,9 @@
         "FirstPassRewardMap": {
             "8401": 3511
         },
-        "ShopId": 0,
-        "Achievement": 0,
+        "ShopId": 207,
+        "Achievement": 10,
         "ParamId": 5,
-        "RogueThemeType": "ZhongQu"
+        "RogueThemeType": 0
     }
 ]

@@ -316,5 +316,17 @@
         "Name": "",
         "Desc": "TowerChallengeBuff_92008053_Desc",
         "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.png"
+    },
+    {
+        "Id": 92008054,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008054_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.png"
+    },
+    {
+        "Id": 92008055,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008055_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.png"
     }
 ]

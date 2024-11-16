@@ -3851,5 +3851,17 @@
         },
         "Team": false,
         "MonsterType": 4
+    },
+    {
+        "Id": 8002002,
+        "StateMachine": "SM_MO1DaMaoMd00001_link",
+        "AiController": "/Game/Aki/AI/AIMonster/Summon/Common/AIC_Common_Summon.AIC_Common_Summon",
+        "BehaviorTree": "/Game/Aki/AI/AIMonster/Summon/Common/BT_Common_Summon.BT_Common_Summon",
+        "SubBehaviorConfigs": {
+            "AiSense": "80017",
+            "AiHate": "80017"
+        },
+        "Team": false,
+        "MonsterType": 4
     }
 ]

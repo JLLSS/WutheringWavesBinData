@@ -661,7 +661,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S03_2.AM_Behit_S03_2",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_Press01.AM_Behit_Press01",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S02_4.AM_Behit_S02_4",
-            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4"
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4",
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Paralysis_Start_2.AM_Paralysis_Start_2"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breaking.DA_Fx_Group_Breaking",
@@ -688,8 +689,10 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
@@ -18986,7 +18989,8 @@
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -19358,6 +19362,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Transfer.DA_Fx_Group_Monster_Transfer",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Born.DA_Fx_Group_Born",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Detect.DA_Fx_Group_Monster_Detect",
@@ -19545,6 +19559,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Transfer.DA_Fx_Group_Monster_Transfer",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Born.DA_Fx_Group_Born",
             "/Game/Aki/Effect/EffectGroup/MO1FHuxiuxiuMd00401/DA_Fx_Group_PTF.DA_Fx_Group_PTF",
@@ -19781,6 +19805,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_MOa01_Water.DA_Fx_Group_MOa01_Water",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_Stand_Ripple.DA_Fx_Group_Stand_Ripple",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_MOa01_Shouji02.DA_Fx_Group_MOa01_Shouji02",
@@ -20913,7 +20947,19 @@
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_SM_ShuiJiao_P2.AM_SM_ShuiJiao_P2",
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Born.AM_Born",
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_SM_ShuiJiao_P1.AM_SM_ShuiJiao_P1",
-            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_PatrolToFight.AM_PatrolToFight"
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_StandUp.AM_StandUp",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Fly_Fall.AM_Behit_Fly_Fall",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Fly_Loop.AM_Behit_Fly_Loop",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Push_Loop.AM_Behit_Push_Loop",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Hover.AM_Behit_Hover",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Push_Start.AM_Behit_Push_Start",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Fly_Start.AM_Behit_Fly_Start",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_B_R.AM_Behit_B_R",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_B_L.AM_Behit_B_L",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_S_R.AM_Behit_S_R",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/AM_Behit_S_L.AM_Behit_S_L"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -20989,7 +21035,19 @@
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_SM_ShuiJiao_P2.AM_SM_ShuiJiao_P2",
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Born.AM_Born",
             "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_SM_ShuiJiao_P1.AM_SM_ShuiJiao_P1",
-            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_PatrolToFight.AM_PatrolToFight"
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_StandUp.AM_StandUp",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Fly_Fall.AM_Behit_Fly_Fall",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Fly_Loop.AM_Behit_Fly_Loop",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Push_Loop.AM_Behit_Push_Loop",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Hover.AM_Behit_Hover",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Push_Start.AM_Behit_Push_Start",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Fly_Start.AM_Behit_Fly_Start",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_B_R.AM_Behit_B_R",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_B_L.AM_Behit_B_L",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_S_R.AM_Behit_S_R",
+            "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/AM_Behit_S_L.AM_Behit_S_L"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -26008,6 +26066,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1BinlangMd00101/DA_Fx_Group_Howling.DA_Fx_Group_Howling",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Sheep_P2_ZZZ.DA_Fx_Group_Sheep_P2_ZZZ",
             "/Game/Aki/Effect/DataAsset/Niagara/MO1BinlangMd00101/DA_Fx_Action01_Qipao.DA_Fx_Action01_Qipao",
@@ -27852,14 +27920,16 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_R_3.AM_Behit_B_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_L_3.AM_Behit_B_L_3",
-            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_StandUp_2.AM_StandUp_2",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Standup_2.AM_Standup_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_2.AM_Behit_Fly_Fall_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_2.AM_Behit_Fly_Loop_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Push_Loop_2.AM_Behit_Push_Loop_2",
@@ -28348,7 +28418,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S03_2.AM_Behit_S03_2",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_Press01.AM_Behit_Press01",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S02_4.AM_Behit_S02_4",
-            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4"
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4",
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Paralysis_Start_2.AM_Paralysis_Start_2"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breaking.DA_Fx_Group_Breaking",
@@ -28435,7 +28506,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_ML1WuChangluMd00601_Stand1.AM_ML1WuChangluMd00601_Stand1",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_Behit_Block_Head.AM_Behit_Block_Head"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -28549,7 +28621,9 @@
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_S.AM_Behit_S"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -28639,14 +28713,16 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_R_3.AM_Behit_B_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_L_3.AM_Behit_B_L_3",
-            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_StandUp_2.AM_StandUp_2",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Standup_2.AM_Standup_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_2.AM_Behit_Fly_Fall_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_2.AM_Behit_Fly_Loop_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Push_Loop_2.AM_Behit_Push_Loop_2",
@@ -28774,7 +28850,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S03_2.AM_Behit_S03_2",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_Press01.AM_Behit_Press01",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S02_4.AM_Behit_S02_4",
-            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4"
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4",
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Paralysis_Start_2.AM_Paralysis_Start_2"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breaking.DA_Fx_Group_Breaking",
@@ -28861,7 +28938,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_ML1WuChangluMd00601_Stand1.AM_ML1WuChangluMd00601_Stand1",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_Behit_Block_Head.AM_Behit_Block_Head"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -28975,7 +29053,9 @@
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_S.AM_Behit_S"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -29008,7 +29088,16 @@
         "Id": 650000056,
         "ActorClass": [],
         "Animations": [
-            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_PatrolToFight.AM_PatrolToFight"
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_B_R.AM_Behit_B_R",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_B_L.AM_Behit_B_L",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_S_R.AM_Behit_S_R",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_S_F.AM_Behit_S_F",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_S_B.AM_Behit_S_B",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_B_F.AM_Behit_B_F",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_B_B.AM_Behit_B_B",
+            "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/AM_Behit_S_L.AM_Behit_S_L"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -29885,7 +29974,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S03_2.AM_Behit_S03_2",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_Press01.AM_Behit_Press01",
             "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S02_4.AM_Behit_S02_4",
-            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4"
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Behit_S01_4.AM_Behit_S01_4",
+            "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/AM_Paralysis_Start_2.AM_Paralysis_Start_2"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breaking.DA_Fx_Group_Breaking",
@@ -29945,7 +30035,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_ML1WuChangluMd00601_Stand1.AM_ML1WuChangluMd00601_Stand1",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_Behit_Block_Head.AM_Behit_Block_Head"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -29975,14 +30066,16 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_R_3.AM_Behit_B_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_L_3.AM_Behit_B_L_3",
-            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_StandUp_2.AM_StandUp_2",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Standup_2.AM_Standup_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_2.AM_Behit_Fly_Fall_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_2.AM_Behit_Fly_Loop_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Push_Loop_2.AM_Behit_Push_Loop_2",
@@ -30034,7 +30127,9 @@
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_S.AM_Behit_S"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -30117,7 +30212,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_ML1WuChangluMd00601_Stand1.AM_ML1WuChangluMd00601_Stand1",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_Behit_Block_Head.AM_Behit_Block_Head"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -30538,8 +30634,10 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
@@ -30679,7 +30777,9 @@
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_S.AM_Behit_S"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -30886,7 +30986,9 @@
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_Block.AM_Behit_Block",
+            "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/AM_Behit_S.AM_Behit_S"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -31541,6 +31643,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_MOa01_Water.DA_Fx_Group_MOa01_Water",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_Stand_Ripple.DA_Fx_Group_Stand_Ripple",
             "/Game/Aki/Effect/EffectGroup/MO1GuguhetunMd00201/DA_Fx_Group_MOa01_Shouji02.DA_Fx_Group_MOa01_Shouji02",
@@ -32074,7 +32186,8 @@
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -32141,6 +32254,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke2.DA_Fx_Group_MLa_01_Smoke2",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke.DA_Fx_Group_MLa_01_Smoke",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Detect.DA_Fx_Group_Monster_Detect"
@@ -32683,6 +32806,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke2.DA_Fx_Group_MLa_01_Smoke2",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke.DA_Fx_Group_MLa_01_Smoke",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Detect.DA_Fx_Group_Monster_Detect"
@@ -32924,14 +33057,16 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_R_3.AM_Behit_B_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_L_3.AM_Behit_B_L_3",
-            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_StandUp_2.AM_StandUp_2",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Standup_2.AM_Standup_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_2.AM_Behit_Fly_Fall_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_2.AM_Behit_Fly_Loop_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Push_Loop_2.AM_Behit_Push_Loop_2",
@@ -33440,7 +33575,8 @@
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -34057,6 +34193,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1BinlangMd00101/DA_Fx_Group_Howling.DA_Fx_Group_Howling",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Sheep_P2_ZZZ.DA_Fx_Group_Sheep_P2_ZZZ",
             "/Game/Aki/Effect/DataAsset/Niagara/MO1BinlangMd00101/DA_Fx_Action01_Qipao.DA_Fx_Action01_Qipao",
@@ -34217,6 +34363,16 @@
             "/Game/Aki/Effect/MaterialController/Common/DA_Fx_TimeController_Specil.DA_Fx_TimeController_Specil",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_CommonBornSmoke.DA_Fx_Group_CommonBornSmoke",
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Group_Breacher_Moster_Buff.DA_Fx_Group_Breacher_Moster_Buff",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Breacher_Moster_Buff_Mask.DA_Fx_Breacher_Moster_Buff_Mask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Born.DA_Fx_Group_Breacher_Moster_Born",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Elite_Zhaohuan.DA_Fx_Group_Elite_Zhaohuan",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Elite_Zhaohuan.DA_Fx_Group_Monster_Elite_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/Common/DA_Fx_MonsterMask.DA_Fx_MonsterMask",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Nengliangti1.DA_Fx_Group_Monster_Nengliangti1",
+            "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Particle_Advance.DA_Fx_Group_Monster_Particle_Advance",
+            "/Game/Aki/Effect/EffectGroup/Common/Vision/DA_Fx_Group_Monster_Ordinary_Zhaohuan.DA_Fx_Group_Monster_Ordinary_Zhaohuan",
+            "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Group_Ordinary_Zhaohuan.DA_Fx_Group_Ordinary_Zhaohuan",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke2.DA_Fx_Group_MLa_01_Smoke2",
             "/Game/Aki/Effect/EffectGroup/MO1DingdongdongMd00201/DA_Fx_Group_MLa_01_Smoke.DA_Fx_Group_MLa_01_Smoke",
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Monster_Detect.DA_Fx_Group_Monster_Detect"
@@ -34310,7 +34466,8 @@
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -34347,7 +34504,8 @@
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/ElitePro/MP1TaguanghuMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block"
         ],
         "Effects": [
             "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",
@@ -35974,7 +36132,8 @@
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_DaoGuanBorn.AM_SM_DaoGuanBorn",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
-            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start"
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/AM_Behit_Block_Head.AM_Behit_Block_Head"
         ],
         "Effects": [
             "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Born.DA_Fx_Ordinary_Born",
@@ -37409,14 +37568,16 @@
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Standup_3.AM_Behit_Fly_Standup_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_3.AM_Behit_Fly_Fall_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_3.AM_Behit_Fly_Loop_3",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Hover_3.AM_Behit_Fly_Hover_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Start_3.AM_Behit_Fly_Start_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_L_3.AM_Behit_S_L_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_S_R_3.AM_Behit_S_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_R_3.AM_Behit_B_R_3",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_B_L_3.AM_Behit_B_L_3",
-            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_StandUp_2.AM_StandUp_2",
+            "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Standup_2.AM_Standup_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Fall_2.AM_Behit_Fly_Fall_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Fly_Loop_2.AM_Behit_Fly_Loop_2",
             "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/AM_Behit_Push_Loop_2.AM_Behit_Push_Loop_2",
@@ -38165,27 +38326,6 @@
         "Others": []
     },
     {
-        "Id": 672800003,
-        "ActorClass": [],
-        "Animations": [
-            "/Game/Aki/Character/Monster/Boss/MB1MingzhongzhiguiMd00201/CommonAnim/AM_SM_Stand.AM_SM_Stand"
-        ],
-        "Effects": [
-            "/Game/Aki/Effect/MaterialController/DA_Lord/MB1Mingzhongzhigui/DA_Fx_Lord_Mingzhongzhigui_zhong.DA_Fx_Lord_Mingzhongzhigui_zhong",
-            "/Game/Aki/Effect/EffectGroup/MB1Mingzhongzhigui/DA_Fx_Group_IceSmoke.DA_Fx_Group_IceSmoke",
-            "/Game/Aki/Effect/MaterialController/DA_Lord/MB1Mingzhongzhigui/DA_Fx_Lord_Mingzhongzhigui_Ice1.DA_Fx_Lord_Mingzhongzhigui_Ice1",
-            "/Game/Aki/Effect/EffectGroup/MB1Mingzhongzhigui/DA_Fx_Group_MBa33_Pojia.DA_Fx_Group_MBa33_Pojia",
-            "/Game/Aki/Effect/MaterialController/DA_Lord/MB1Mingzhongzhigui/DA_Fx_Lord_Mingzhongzhigui_Stone_Darken.DA_Fx_Lord_Mingzhongzhigui_Stone_Darken",
-            "/Game/Aki/Effect/MaterialController/DA_Lord/MB1Mingzhongzhigui/DA_Fx_Lord_Mingzhongzhigui_Flower_Diss.DA_Fx_Lord_Mingzhongzhigui_Flower_Diss",
-            "/Game/Aki/Effect/EffectGroup/MB1Mingzhongzhigui/DA_Fx_Group_MBa_Bell_Reborn.DA_Fx_Group_MBa_Bell_Reborn"
-        ],
-        "Audios": [],
-        "Meshes": [],
-        "Materials": [],
-        "AnimationBlueprints": [],
-        "Others": []
-    },
-    {
         "Id": 650800003,
         "ActorClass": [],
         "Animations": [
@@ -38533,6 +38673,7 @@
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_SM_Paralysis_End.AM_SM_Paralysis_End",
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_SM_Paralysis_Loop.AM_SM_Paralysis_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_SM_Paralysis_Start.AM_SM_Paralysis_Start",
+            "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_Stand1_Born_Link.AM_Stand1_Born_Link",
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_Behit_Fly_End.AM_Behit_Fly_End",
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_Behit_Fly_Loop.AM_Behit_Fly_Loop",
             "/Game/Aki/Character/Monster/Boss/MB1ZhenwuguanzheMd00601/CommonAnim/AM_Behit_Fly_Start.AM_Behit_Fly_Start",
@@ -38660,6 +38801,17 @@
     },
     {
         "Id": 314800001,
+        "ActorClass": [],
+        "Animations": [],
+        "Effects": [],
+        "Audios": [],
+        "Meshes": [],
+        "Materials": [],
+        "AnimationBlueprints": [],
+        "Others": []
+    },
+    {
+        "Id": 886800006,
         "ActorClass": [],
         "Animations": [],
         "Effects": [],

@@ -6977,8 +6977,8 @@
             "",
             "",
             "",
-            "ComboTeaching_99990001_IconTagText_0",
             "",
+            "ComboTeaching_99990001_IconTagText_0",
             ""
         ],
         "DescriptionTitle": "ComboTeaching_16030102_DescriptionTitle",
@@ -7097,6 +7097,8 @@
         "AddBuffID": [
             621310221,
             1603456001,
+            1603100001,
+            1603200000,
             1603200001,
             1603100011,
             1603100013,
@@ -7131,13 +7133,15 @@
             16030603,
             16030605
         ],
-        "guideID": [],
+        "guideID": [
+            2429188
+        ],
         "InputEnums": [
             "技能",
             "普攻"
         ],
         "AddBuffID": [
-            621310221,
+            621310211,
             1603456001,
             621310224,
             1603100002
@@ -7150,20 +7154,21 @@
             "攻击;1603001",
             "攻击;1603001",
             "攻击;1603001",
+            "攻击;1603001",
             "攻击;1603001"
         ],
         "IconText": [
             "ComboTeaching_99990001_IconText_0",
             "ComboTeaching_99990001_IconText_1",
             "ComboTeaching_99990001_IconText_2",
-            "ComboTeaching_99990001_IconText_3",
-            "ComboTeaching_99990001_IconText_4"
+            "ComboTeaching_99990007_IconText_0",
+            "ComboTeaching_99990001_IconText_3"
         ],
         "IconTagText": [
             "",
             "",
             "ComboTeaching_99990001_IconTagText_0",
-            "",
+            "ComboTeaching_14050501_IconTagText_0",
             ""
         ],
         "DescriptionTitle": "ComboTeaching_16030602_DescriptionTitle",
@@ -7177,29 +7182,29 @@
         ],
         "guideID": [],
         "InputEnums": [
+            "技能",
             "普攻"
         ],
         "AddBuffID": [
-            621310221,
+            621310211,
             621310224,
+            1603100001,
+            1603200000,
             1603200001,
             1603100011,
             1603100013,
-            1603100015
+            1603100015,
+            1603456003
         ]
     },
     {
         "Id": 16030701,
         "NextRoleGuideID": 0,
         "KeyID": [
-            "技能;1603014",
-            "攻击;1603001",
-            "攻击;1603001",
-            "攻击;1603001",
-            "攻击;1603001"
+            "技能;1603014"
         ],
         "IconText": [
-            "ComboTeaching_99990002_IconText_0"
+            "ComboTeaching_99990010_IconText_0"
         ],
         "IconTagText": [],
         "DescriptionTitle": "ComboTeaching_16030701_DescriptionTitle",
@@ -7208,11 +7213,10 @@
             16030701
         ],
         "guideID": [
-            2429188
+            2429190
         ],
         "InputEnums": [
-            "技能",
-            "普攻"
+            "技能"
         ],
         "AddBuffID": [
             621310221,
@@ -7278,9 +7282,9 @@
         "Id": 15040101,
         "NextRoleGuideID": 0,
         "KeyID": [
-            "攻击;1504001",
-            "攻击;1504001",
-            "攻击;1504001"
+            "攻击;1504020",
+            "攻击;1504020",
+            "攻击;1504020"
         ],
         "IconText": [
             "ComboTeaching_99990001_IconText_0",
@@ -7308,9 +7312,11 @@
         "Id": 15040102,
         "NextRoleGuideID": 0,
         "KeyID": [
-            "攻击;1504001"
+            "攻击;1504020",
+            "攻击;1504020"
         ],
         "IconText": [
+            "ComboTeaching_99990003_IconText_0",
             "ComboTeaching_99990003_IconText_0"
         ],
         "IconTagText": [],
@@ -7334,7 +7340,7 @@
         "NextRoleGuideID": 0,
         "KeyID": [
             "跳跃;100010",
-            "攻击;1504001"
+            "攻击;1504050"
         ],
         "IconText": [
             "ComboTeaching_99990004_IconText_0",
@@ -7460,7 +7466,7 @@
         "Id": 15040501,
         "NextRoleGuideID": 0,
         "KeyID": [
-            "闪避;100001"
+            "闪避;1504035"
         ],
         "IconText": [
             "ComboTeaching_99990009_IconText_0"
@@ -7499,7 +7505,9 @@
             2429189
         ],
         "InputEnums": [
-            "技能"
+            "技能",
+            "普攻",
+            "跳跃"
         ],
         "AddBuffID": [
             621310211,

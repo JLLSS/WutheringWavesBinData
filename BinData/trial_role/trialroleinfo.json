@@ -22077,7 +22077,7 @@
             15,
             16
         ],
-        "TrailWeapon": 21020470,
+        "TrailWeapon": 5270101,
         "PhantomEquipList": [
             {
                 "Item1": 60000425,
@@ -29353,7 +29353,7 @@
         "PhantomEquipList": [
             {
                 "Item1": 60000425,
-                "Item2": 10085325
+                "Item2": 16085225
             },
             {
                 "Item1": 60000205,
@@ -29365,11 +29365,11 @@
             },
             {
                 "Item1": 60000095,
-                "Item2": 10085125
+                "Item2": 16085225
             },
             {
                 "Item1": 60000305,
-                "Item2": 10085125
+                "Item2": 16085225
             }
         ]
     },
@@ -37850,6 +37850,20 @@
             5
         ],
         "TrailWeapon": 21020390,
+        "PhantomEquipList": []
+    },
+    {
+        "Id": 100329,
+        "GroupId": 100329,
+        "WorldLevel": 1,
+        "OnlyTrial": false,
+        "HideTrialLabel": false,
+        "ParentId": 1504,
+        "Level": 1,
+        "ResonanceLevel": 0,
+        "UnlockSkillLevel": 1,
+        "UnlockSkillNodeList": [],
+        "TrailWeapon": 1,
         "PhantomEquipList": []
     }
 ]

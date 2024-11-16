@@ -3201,7 +3201,7 @@
         ],
         "AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
-        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiC1.png"
+        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengC1.png"
     },
     {
         "Id": 120306,
@@ -3257,7 +3257,7 @@
         ],
         "AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
-        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiC1.png"
+        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeC1.png"
     },
     {
         "Id": 120301,
@@ -3312,7 +3312,9 @@
         ],
         "AffixDesc": "RogueBuffPool_120303_BuffDesc",
         "AffixDescParam": [
-            "200%",
+            "300%",
+            "2",
+            "100%",
             "1000%"
         ],
         "AffixDescSimple": "RogueBuffPool_120303_BuffDesc_0",
@@ -3333,7 +3335,8 @@
         "AffixDesc": "RogueBuffPool_120304_BuffDesc",
         "AffixDescParam": [
             "60%",
-            "200%",
+            "300%",
+            "8",
             "50%"
         ],
         "AffixDescSimple": "RogueBuffPool_120304_BuffDesc_0",
@@ -3366,7 +3369,7 @@
         "AffixDescParam": [
             "40%",
             "30%",
-            "400%",
+            "500%",
             "60%"
         ],
         "AffixDescSimple": "RogueBuffPool_150301_BuffDesc_0",
@@ -3384,7 +3387,8 @@
         ],
         "AffixDesc": "RogueBuffPool_150302_BuffDesc",
         "AffixDescParam": [
-            "650%",
+            "850%",
+            "10",
             "40%"
         ],
         "AffixDescSimple": "RogueBuffPool_150302_BuffDesc_0",
@@ -3402,7 +3406,8 @@
         ],
         "AffixDesc": "RogueBuffPool_150303_BuffDesc",
         "AffixDescParam": [
-            "300%",
+            "2",
+            "400%",
             "1",
             "25%"
         ],
@@ -3419,6 +3424,7 @@
         ],
         "AffixDesc": "RogueBuffPool_150304_BuffDesc",
         "AffixDescParam": [
+            "12",
             "25%"
         ],
         "AffixDescSimple": "RogueBuffPool_150304_BuffDesc_0",
@@ -3435,7 +3441,8 @@
         "AffixDesc": "RogueBuffPool_150305_BuffDesc",
         "AffixDescParam": [
             "30",
-            "50%"
+            "50%",
+            "5"
         ],
         "AffixDescSimple": "RogueBuffPool_150305_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_150305_BuffDesc_1",
@@ -3495,7 +3502,7 @@
         ],
         "AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
-        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiC1.png"
+        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanC1.png"
     },
     {
         "Id": 110601,
@@ -3539,7 +3546,8 @@
         ],
         "AffixDesc": "RogueBuffPool_110603_BuffDesc",
         "AffixDescParam": [
-            "40%"
+            "40%",
+            "10"
         ],
         "AffixDescSimple": "RogueBuffPool_110603_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_110603_BuffDesc_1",
@@ -3648,10 +3656,13 @@
         ],
         "AffixDesc": "RogueBuffPool_150501_BuffDesc",
         "AffixDescParam": [
-            "300%",
+            "2",
+            "200%",
             "50%",
             "50%",
-            "2%"
+            "2%",
+            "20%",
+            "7"
         ],
         "AffixDescSimple": "RogueBuffPool_150501_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_150501_BuffDesc_1",
@@ -3664,12 +3675,12 @@
             1505999202,
             1505999204,
             1505999205,
-            1505999201,
-            1505999210
+            1505999201
         ],
         "AffixDesc": "RogueBuffPool_150502_BuffDesc",
         "AffixDescParam": [
             "50%",
+            "60",
             "100%"
         ],
         "AffixDescSimple": "RogueBuffPool_150502_BuffDesc_0",
@@ -3682,14 +3693,15 @@
         "BuffIds": [
             1505999301,
             1505999303,
-            1505999204,
-            1505999210
+            1505999204
         ],
         "AffixDesc": "RogueBuffPool_150503_BuffDesc",
         "AffixDescParam": [
+            "2",
+            "2",
             "50%",
             "50%",
-            "50%"
+            "200%"
         ],
         "AffixDescSimple": "RogueBuffPool_150503_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_150503_BuffDesc_1",
@@ -3707,7 +3719,9 @@
         "AffixDescParam": [
             "20%",
             "40%",
-            "100%"
+            "15",
+            "100%",
+            "1.5"
         ],
         "AffixDescSimple": "RogueBuffPool_150504_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_150504_BuffDesc_1",
@@ -3771,7 +3785,7 @@
         ],
         "AffixDescSimple": "RogueBuffPool_900000010024_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_900000010024_BuffDesc_1",
-        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiB1.png"
+        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenB1.png"
     },
     {
         "Id": 150509,
@@ -3811,7 +3825,9 @@
         "AffixDesc": "RogueBuffPool_130102_BuffDesc",
         "AffixDescParam": [
             "720%",
-            "30%"
+            "30%",
+            "14",
+            "3"
         ],
         "AffixDescSimple": "RogueBuffPool_130102_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_130102_BuffDesc_1",
@@ -3827,7 +3843,8 @@
         ],
         "AffixDesc": "RogueBuffPool_130103_BuffDesc",
         "AffixDescParam": [
-            "50%"
+            "50%",
+            "2"
         ],
         "AffixDescSimple": "RogueBuffPool_130103_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_130103_BuffDesc_1",
@@ -3943,6 +3960,7 @@
         "AffixDesc": "RogueBuffPool_110402_BuffDesc",
         "AffixDescParam": [
             "10%",
+            "15",
             "15"
         ],
         "AffixDescSimple": "RogueBuffPool_110402_BuffDesc_0",
@@ -3975,7 +3993,8 @@
         ],
         "AffixDesc": "RogueBuffPool_110404_BuffDesc",
         "AffixDescParam": [
-            "100%",
+            "2",
+            "5",
             "600%"
         ],
         "AffixDescSimple": "RogueBuffPool_110404_BuffDesc_0",
@@ -3991,7 +4010,8 @@
         ],
         "AffixDesc": "RogueBuffPool_110405_BuffDesc",
         "AffixDescParam": [
-            "600%"
+            "600%",
+            "0.5"
         ],
         "AffixDescSimple": "RogueBuffPool_110405_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_110405_BuffDesc_1",
@@ -4062,7 +4082,8 @@
         "AffixDesc": "RogueBuffPool_120401_BuffDesc",
         "AffixDescParam": [
             "40%",
-            "10"
+            "12",
+            "2"
         ],
         "AffixDescSimple": "RogueBuffPool_120401_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_120401_BuffDesc_1",
@@ -4072,12 +4093,11 @@
         "Id": 120402,
         "BuffId": 106291200200,
         "BuffIds": [
-            12049120200,
-            12049120299
+            12049120200
         ],
         "AffixDesc": "RogueBuffPool_120402_BuffDesc",
         "AffixDescParam": [
-            "10",
+            "12",
             "2%",
             "8",
             "30"
@@ -4194,7 +4214,7 @@
         ],
         "AffixDesc": "RogueBuffPool_160301_BuffDesc",
         "AffixDescParam": [
-            "100%"
+            "250%"
         ],
         "AffixDescSimple": "RogueBuffPool_160301_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_160301_BuffDesc_1",
@@ -4213,6 +4233,7 @@
         "AffixDescParam": [
             "10",
             "5%",
+            "10",
             "10"
         ],
         "AffixDescSimple": "RogueBuffPool_160302_BuffDesc_0",
@@ -4228,9 +4249,7 @@
         ],
         "AffixDesc": "RogueBuffPool_160303_BuffDesc",
         "AffixDescParam": [
-            "10",
-            "5%",
-            "50%"
+            "10"
         ],
         "AffixDescSimple": "RogueBuffPool_160303_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_160303_BuffDesc_1",
@@ -4249,8 +4268,9 @@
         ],
         "AffixDesc": "RogueBuffPool_160304_BuffDesc",
         "AffixDescParam": [
-            "3%",
-            "4"
+            "5%",
+            "4",
+            "1"
         ],
         "AffixDescSimple": "RogueBuffPool_160304_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_160304_BuffDesc_1",
@@ -4265,7 +4285,8 @@
         ],
         "AffixDesc": "RogueBuffPool_160305_BuffDesc",
         "AffixDescParam": [
-            "780%"
+            "780%",
+            "3"
         ],
         "AffixDescSimple": "RogueBuffPool_160305_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_160305_BuffDesc_1",
@@ -4325,13 +4346,14 @@
         ],
         "AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
-        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiC1.png"
+        "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunC1.png"
     },
     {
         "Id": 150401,
         "BuffId": 1504990003,
         "BuffIds": [
-            1504990003
+            1504990003,
+            1504990012
         ],
         "AffixDesc": "RogueBuffPool_150401_BuffDesc",
         "AffixDescParam": [
@@ -4363,7 +4385,8 @@
         ],
         "AffixDesc": "RogueBuffPool_150403_BuffDesc",
         "AffixDescParam": [
-            "2400%"
+            "10",
+            "240%"
         ],
         "AffixDescSimple": "RogueBuffPool_150403_BuffDesc_0",
         "AffixTitle": "RogueBuffPool_150403_BuffDesc_1",

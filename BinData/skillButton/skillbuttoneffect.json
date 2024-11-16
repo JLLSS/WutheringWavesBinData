@@ -80,7 +80,7 @@
     {
         "Id": 1603010,
         "Name": "椿技能提示",
-        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.png",
+        "NiagaraPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Chun_Fight_E.png",
         "ElementId": 6
     },
     {

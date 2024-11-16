@@ -2328,8 +2328,8 @@
             "Max": 2000
         },
         "DisengageBornDistance": {
-            "Min": 100000,
-            "Max": -214748.359375
+            "Min": -1,
+            "Max": -1
         },
         "MaxMoveFromBorn": -1,
         "ExcludeTag": "行为状态.逻辑状态.隐身",
@@ -2968,8 +2968,8 @@
             "Max": 2000
         },
         "DisengageBornDistance": {
-            "Min": -214748.359375,
-            "Max": -214748.359375
+            "Min": -1,
+            "Max": -1
         },
         "MaxMoveFromBorn": -1,
         "ExcludeTag": "行为状态.逻辑状态.隐身",

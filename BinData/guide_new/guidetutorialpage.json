@@ -1857,7 +1857,7 @@
     },
     {
         "Id": 34071,
-        "Pic": "/Game/Aki/UI/UIResources/Common/Image/ImgHelp/T_ImgHelp_Tuwenyindao_34071_UI.png",
+        "Pic": "/Game/Aki/UI/UIResources/Common/Image/ImgHelp/T_ImgHelp_Tuwenyindao_34071_01_UI.png",
         "Title": "Tutorial_34071_Title",
         "SubTitle": "",
         "Content": "GuideTutorialPage_34071_Content",
@@ -1889,7 +1889,7 @@
     },
     {
         "Id": 34072,
-        "Pic": "/Game/Aki/UI/UIResources/Common/Image/ImgHelp/T_ImgHelp_Tuwenyindao_34072_UI.png",
+        "Pic": "/Game/Aki/UI/UIResources/Common/Image/ImgHelp/T_ImgHelp_Tuwenyindao_34072_01_UI.png",
         "Title": "Tutorial_34072_Title",
         "SubTitle": "",
         "Content": "GuideTutorialPage_34072_Content",

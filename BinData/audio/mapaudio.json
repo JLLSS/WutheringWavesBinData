@@ -421,5 +421,23 @@
         "ExitEvent": "map_system_damao_exit",
         "ResetEvent": "",
         "MusicResetEvent": ""
+    },
+    {
+        "Id": 2511,
+        "Name": "InstanceTree_HeiHaian_Yuehui_WorldDungen",
+        "Event": "map_main_hhayuehui",
+        "EnterEvent": "",
+        "ExitEvent": "",
+        "ResetEvent": "",
+        "MusicResetEvent": ""
+    },
+    {
+        "Id": 8800,
+        "Name": "InstanceTree_1_4_MowingTower",
+        "Event": "map_huodong_mowingtower",
+        "EnterEvent": "",
+        "ExitEvent": "",
+        "ResetEvent": "",
+        "MusicResetEvent": ""
     }
 ]

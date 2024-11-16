@@ -17,17 +17,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020019_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020019_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851001
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 10,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     },
     {
@@ -47,17 +47,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010027_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010027_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851002
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 10,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     },
     {
@@ -78,17 +78,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020018_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020018_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851002
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 0,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     },
     {
@@ -109,17 +109,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030016_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030016_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851002
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 0,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     },
     {
@@ -140,17 +140,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040017_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040017_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851002
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 10,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     },
     {
@@ -170,17 +170,17 @@
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050028_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050028_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS",
-        "MaxCapcity": 1,
+        "MaxCapcity": 99,
         "ItemAccess": [
             851002
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "",
         "NumLimit": 1,
-        "ShowInBag": true,
+        "ShowInBag": false,
         "SortIndex": 0,
         "HiddenTime": 10,
-        "Destructible": true,
+        "Destructible": false,
         "RedDotDisableRule": 0
     }
 ]

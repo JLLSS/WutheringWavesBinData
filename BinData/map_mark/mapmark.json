@@ -953,7 +953,7 @@
         "CornerScale": 1,
         "FirstReward": 10010,
         "Reward": 103,
-        "MultiMapFloorId": 22,
+        "MultiMapFloorId": 0,
         "ConnetMultiMapFloorId": [],
         "TrackHudEnable": 1,
         "TrackAutoCancelDistance": 400
@@ -1867,7 +1867,7 @@
         "ShowPriority": 1,
         "ShowRange": [
             -9999,
-            9999
+            -1
         ],
         "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_02_UI.png",
         "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_02_UI.png",
@@ -3728,7 +3728,7 @@
         "CornerScale": 0.800000011920929,
         "FirstReward": 0,
         "Reward": 0,
-        "MultiMapFloorId": 22,
+        "MultiMapFloorId": 0,
         "ConnetMultiMapFloorId": [],
         "TrackHudEnable": 1,
         "TrackAutoCancelDistance": 400
@@ -10260,7 +10260,7 @@
         },
         "ObjectType": 6,
         "MarkTitle": "Activity_102600001_Title",
-        "MarkDesc": "Activity_102600001_Title",
+        "MarkDesc": "Activity_102600001_Desc",
         "ToBeDiscovered": 0,
         "IsMonster": 0,
         "ShowPriority": 1,
@@ -11334,11 +11334,8 @@
         "CornerScale": 0.699999988079071,
         "FirstReward": 0,
         "Reward": 0,
-        "MultiMapFloorId": 22,
-        "ConnetMultiMapFloorId": [
-            22,
-            23
-        ],
+        "MultiMapFloorId": 0,
+        "ConnetMultiMapFloorId": [],
         "TrackHudEnable": 1,
         "TrackAutoCancelDistance": 400
     },
@@ -11386,7 +11383,7 @@
         "RelativeSubType": 0,
         "EntityConfigId": 221800311,
         "FogHide": 5,
-        "RelativeId": 221800016,
+        "RelativeId": 223800001,
         "MarkVector": {
             "X": 0,
             "Y": 0,

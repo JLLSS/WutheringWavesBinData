@@ -160,7 +160,7 @@
     {
         "Id": 100100005,
         "Type": 2,
-        "PrefabResource": "ActivitySignIn_1_3",
+        "PrefabResource": "ActivitySignIn_1_4",
         "SignRewards": [
             {
                 "ItemId": 50001,

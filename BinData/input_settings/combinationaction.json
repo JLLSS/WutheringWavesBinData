@@ -117,13 +117,14 @@
         "ActionType": 3,
         "PcKeys": {},
         "GamepadKeys": {
-            "Gamepad_LeftShoulder": "Gamepad_DPad_Right"
+            "Gamepad_Special_Left": "Gamepad_Special_Right",
+            "GenericUSBController_Button14": "Gamepad_Special_Right"
         },
         "SecondaryKeyValidTime": -1,
         "MobileIconPath": "",
         "DisplayName": "",
         "KeyboardVersion": 0,
-        "GamepadVersion": 0
+        "GamepadVersion": 1
     },
     {
         "Id": 10,

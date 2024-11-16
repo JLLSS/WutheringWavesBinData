@@ -3002,7 +3002,9 @@
         "InstigatorType": "Owner",
         "SkillAction": "AddBuff",
         "SkillActionParams": [
-            "9102910002017"
+            "9102910002017",
+            "9102910002077",
+            "9102910002079"
         ]
     },
     {
@@ -3623,7 +3625,7 @@
             "0"
         ],
         "TriggerParams": {},
-        "TriggerFormula": "BulletID==1505009980\nOR\nBulletID==1505009981\nOR\nBulletID==1505301990\nOR\nBulletID==1505888190\nOR\nBulletID==1505888134\nOR\nBulletID==1505888250",
+        "TriggerFormula": "BulletID==1505009980\nOR\nBulletID==1505301990\nOR\nBulletID==1505888190\nOR\nBulletID==1505888134\nOR\nBulletID==1505888250\nOR\nBulletID==1505888980",
         "SubSkillAction": [],
         "InstigatorType": "Victim",
         "SkillAction": "AddBullet",
@@ -4571,7 +4573,7 @@
             "62"
         ],
         "TriggerParams": {},
-        "TriggerFormula": "GetAttributeByID(Owner,62)>=100",
+        "TriggerFormula": "GetAttributeByID(Owner,62)>=10000",
         "SubSkillAction": [],
         "InstigatorType": "Owner",
         "SkillAction": "AddBuff",
@@ -4593,7 +4595,7 @@
             "62"
         ],
         "TriggerParams": {},
-        "TriggerFormula": "GetAttributeByID(Owner,62)<100",
+        "TriggerFormula": "GetAttributeByID(Owner,62)<10000",
         "SubSkillAction": [],
         "InstigatorType": "Owner",
         "SkillAction": "RemoveBuff",
@@ -4689,7 +4691,7 @@
     },
     {
         "Id": 1603906015,
-        "SkillDesc": "E移除外显buff",
+        "SkillDesc": "转化E移除buff",
         "CDTime": 0,
         "ShareGroupId": 0,
         "MaxCount": 1,
@@ -4698,16 +4700,17 @@
         "TriggerType": "SkillTrigger",
         "TriggerPreset": [
             "0",
-            "1603014",
+            "-1",
             "0"
         ],
         "TriggerParams": {},
-        "TriggerFormula": "TRUE",
+        "TriggerFormula": "SkillID==1603014\nOR\nSkillID==1603015",
         "SubSkillAction": [],
         "InstigatorType": "Owner",
-        "SkillAction": "RemoveBuff",
+        "SkillAction": "AddBuff",
         "SkillActionParams": [
-            "1603906017#-1"
+            "1603906031",
+            "1603906060"
         ]
     },
     {
@@ -4952,30 +4955,9 @@
         ]
     },
     {
-        "Id": 1504007901,
-        "SkillDesc": "黄灯技能额外触发软锁",
-        "CDTime": 0,
-        "ShareGroupId": 0,
-        "MaxCount": 1,
-        "IsShareAllCdSkill": false,
-        "IsDefaultActivated": true,
-        "TriggerType": "SkillTrigger",
-        "TriggerPreset": [
-            "0"
-        ],
-        "TriggerParams": {},
-        "TriggerFormula": "SkillID==1504010\nOR\nSkillID==1504035\nOR\nSkillID==1504036\nOR\nSkillID==1504907\nOR\nSkillID==1504908",
-        "SubSkillAction": [],
-        "InstigatorType": "Owner",
-        "SkillAction": "LockOn",
-        "SkillActionParams": [
-            "0#1504001#9#1#0"
-        ]
-    },
-    {
         "Id": 2917240441,
         "SkillDesc": "【大猫战】【单人】【被动技能】F慢动作交互后触发拼刀-暗主男",
-        "CDTime": 100,
+        "CDTime": 2,
         "ShareGroupId": 0,
         "MaxCount": 1,
         "IsShareAllCdSkill": false,
@@ -4991,13 +4973,13 @@
         "InstigatorType": "Owner",
         "SkillAction": "StartSkill",
         "SkillActionParams": [
-            "1605101"
+            "16051021"
         ]
     },
     {
         "Id": 2917240442,
         "SkillDesc": "【大猫战】【单人】【被动技能】保底拼刀子弹",
-        "CDTime": 100,
+        "CDTime": 2,
         "ShareGroupId": 0,
         "MaxCount": 1,
         "IsShareAllCdSkill": false,
@@ -5019,7 +5001,7 @@
     {
         "Id": 2917240443,
         "SkillDesc": "【大猫战】【单人】【被动技能】F慢动作交互后触发拼刀-暗主女",
-        "CDTime": 100,
+        "CDTime": 2,
         "ShareGroupId": 0,
         "MaxCount": 1,
         "IsShareAllCdSkill": false,
@@ -5035,7 +5017,7 @@
         "InstigatorType": "Owner",
         "SkillAction": "StartSkill",
         "SkillActionParams": [
-            "1604101"
+            "16041221"
         ]
     },
     {
@@ -5057,6 +5039,596 @@
         "SkillAction": "AddBuff",
         "SkillActionParams": [
             "1603110006"
+        ]
+    },
+    {
+        "Id": 1504007901,
+        "SkillDesc": "黄灯技能额外触发软锁",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillID==1504010\nOR\nSkillID==1504035\nOR\nSkillID==1504036\nOR\nSkillID==1504907\nOR\nSkillID==1504908",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "LockOn",
+        "SkillActionParams": [
+            "0#1504001#9#1#0"
+        ]
+    },
+    {
+        "Id": 1603906061,
+        "SkillDesc": "不在前台时移除强化状态",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "TagTrigger",
+        "TriggerPreset": [
+            "行为状态.逻辑状态.前台",
+            "1"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "RemoveBuff",
+        "SkillActionParams": [
+            "1603000004#1"
+        ]
+    },
+    {
+        "Id": 9102910002078,
+        "SkillDesc": "【协奏】【被动技能】椿释放强化E后，移除无妄者补发的buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "1603014",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "RemoveBuff",
+        "SkillActionParams": [
+            "9102910002077",
+            "9102910002079"
+        ]
+    },
+    {
+        "Id": 9102910002079,
+        "SkillDesc": "【协奏】【被动技能】椿释放强化E（6命后，移除无妄者补发的buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "1603015",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "RemoveBuff",
+        "SkillActionParams": [
+            "9102910002077",
+            "9102910002079"
+        ]
+    },
+    {
+        "Id": 12049120100,
+        "SkillDesc": "BD1-【扶翼幻想】存在时，每个协奏角色进场额外打出10发【加强音】【触发器】",
+        "CDTime": 2,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "1",
+            "-1",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillType==4",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "12049120110"
+        ]
+    },
+    {
+        "Id": 674010201,
+        "SkillDesc": "命中叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "BulletID!=660000001\nAND\nBulletID!=660000002\nAND\nBulletID!=660000003\nAND\nBulletID!=660000004",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010202,
+        "SkillDesc": "命中叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "BulletID!=660000001\nAND\nBulletID!=660000002\nAND\nBulletID!=660000003\nAND\nBulletID!=660000004",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010203,
+        "SkillDesc": "普攻伤害叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "DamageTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "DamageType==0\nAND\n(DamageID!=660000001\nAND\nDamageID!=660000002\nAND\nDamageID!=660000003\nAND\nDamageID!=660000004)",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010204,
+        "SkillDesc": "普攻伤害叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "DamageTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "DamageType==0\nAND\n(DamageID!=660000001\nAND\nDamageID!=660000002\nAND\nDamageID!=660000003\nAND\nDamageID!=660000004)",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010205,
+        "SkillDesc": "普攻伤害叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "DamageTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "DamageType==0\nAND\n(DamageID!=660000001\nAND\nDamageID!=660000002\nAND\nDamageID!=660000003\nAND\nDamageID!=660000004)",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010302,
+        "SkillDesc": "暗伤叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "DamageTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "ElementType==6\nAND\n(DamageID!=660000001\nAND\nDamageID!=660000002\nAND\nDamageID!=660000003\nAND\nDamageID!=660000004)",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101",
+            "674010101"
+        ]
+    },
+    {
+        "Id": 674010602,
+        "SkillDesc": "命中叠层",
+        "CDTime": 0.10000000149011612,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": true,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "BulletID!=660000001\nAND\nBulletID!=660000002\nAND\nBulletID!=660000003\nAND\nBulletID!=660000004",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "674010101"
+        ]
+    },
+    {
+        "Id": 622920124,
+        "SkillDesc": "成功闪避加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "LimitDodgeTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920125"
+        ]
+    },
+    {
+        "Id": 622920127,
+        "SkillDesc": "成功闪避加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "LimitDodgeTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920128"
+        ]
+    },
+    {
+        "Id": 622920130,
+        "SkillDesc": "成功闪避加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "LimitDodgeTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "TRUE",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920131"
+        ]
+    },
+    {
+        "Id": 622920132,
+        "SkillDesc": "拼刀成功加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "CounterType==1",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920133"
+        ]
+    },
+    {
+        "Id": 622920135,
+        "SkillDesc": "拼刀成功加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "CounterType==1",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920136"
+        ]
+    },
+    {
+        "Id": 622920138,
+        "SkillDesc": "拼刀成功加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "HitTrigger",
+        "TriggerPreset": [
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "CounterType==1",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920139"
+        ]
+    },
+    {
+        "Id": 622920145,
+        "SkillDesc": "QTE加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "-1",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillType==4",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920146"
+        ]
+    },
+    {
+        "Id": 622920163,
+        "SkillDesc": "QTE加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "-1",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillType==4",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920148"
+        ]
+    },
+    {
+        "Id": 622920164,
+        "SkillDesc": "QTE加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "-1",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillType==4",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920150"
+        ]
+    },
+    {
+        "Id": 622920151,
+        "SkillDesc": "施放声骸加buff",
+        "CDTime": 0,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "SkillTrigger",
+        "TriggerPreset": [
+            "0",
+            "-1",
+            "0"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "SkillType==9",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "622920152"
+        ]
+    },
+    {
+        "Id": 110010011,
+        "SkillDesc": "消耗协奏加buff",
+        "CDTime": 1,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "AttributeChangedTrigger",
+        "TriggerPreset": [
+            "0",
+            "77"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "OldValue>NewValue",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "110010016"
+        ]
+    },
+    {
+        "Id": 110010012,
+        "SkillDesc": "消耗协奏加buff",
+        "CDTime": 1,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "AttributeChangedTrigger",
+        "TriggerPreset": [
+            "0",
+            "77"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "OldValue>NewValue",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "110010017"
+        ]
+    },
+    {
+        "Id": 110010013,
+        "SkillDesc": "消耗协奏加buff",
+        "CDTime": 1,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "AttributeChangedTrigger",
+        "TriggerPreset": [
+            "0",
+            "77"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "OldValue>NewValue",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "110010018"
+        ]
+    },
+    {
+        "Id": 110010014,
+        "SkillDesc": "消耗协奏加buff",
+        "CDTime": 1,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "AttributeChangedTrigger",
+        "TriggerPreset": [
+            "0",
+            "77"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "OldValue>NewValue",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "110010019"
+        ]
+    },
+    {
+        "Id": 110010015,
+        "SkillDesc": "消耗协奏加buff",
+        "CDTime": 1,
+        "ShareGroupId": 0,
+        "MaxCount": 1,
+        "IsShareAllCdSkill": false,
+        "IsDefaultActivated": true,
+        "TriggerType": "AttributeChangedTrigger",
+        "TriggerPreset": [
+            "0",
+            "77"
+        ],
+        "TriggerParams": {},
+        "TriggerFormula": "OldValue>NewValue",
+        "SubSkillAction": [],
+        "InstigatorType": "Owner",
+        "SkillAction": "AddBuff",
+        "SkillActionParams": [
+            "110010020"
         ]
     }
 ]

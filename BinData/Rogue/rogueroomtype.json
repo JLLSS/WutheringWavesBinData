@@ -377,42 +377,42 @@
     {
         "Id": 110,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage2_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 111,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 112,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage2_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 113,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage1_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 114,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage2_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 115,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage2_dangerous"
+        "RoomsMusicState": ""
     },
     {
         "Id": 116,
-        "RoomTipsType": 1,
-        "RoomsMusicState": "stage2_safe"
+        "RoomTipsType": 0,
+        "RoomsMusicState": ""
     },
     {
         "Id": 117,
         "RoomTipsType": 1,
-        "RoomsMusicState": "stage2_safe"
+        "RoomsMusicState": ""
     },
     {
         "Id": 1000,
@@ -642,12 +642,12 @@
     {
         "Id": 231,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage3_dangerous"
+        "RoomsMusicState": "stage3_bulletrun"
     },
     {
         "Id": 232,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage3_dangerous"
+        "RoomsMusicState": "stage3_bulletrun"
     },
     {
         "Id": 233,
@@ -792,7 +792,7 @@
     {
         "Id": 270,
         "RoomTipsType": 0,
-        "RoomsMusicState": "stage2_dangerous"
+        "RoomsMusicState": "stage3_dangerous"
     },
     {
         "Id": 271,
@@ -841,7 +841,12 @@
     },
     {
         "Id": 274,
-        "RoomTipsType": 2,
+        "RoomTipsType": 0,
         "RoomsMusicState": "stage1_endboss"
+    },
+    {
+        "Id": 275,
+        "RoomTipsType": 0,
+        "RoomsMusicState": "stage2_dangerous"
     }
 ]

@@ -502,5 +502,9 @@
     {
         "MapId": 8800,
         "MapPath": "/Game/Aki/Map/Level/Huodong/1_4_MowingTower/InstanceTree_1_4_MowingTower"
+    },
+    {
+        "MapId": 2511,
+        "MapPath": "/Game/Aki/Map/Level/Main/1_3_HHA_Yuehui/InstanceTree_HeiHaian_Yuehui_WorldDungen"
     }
 ]

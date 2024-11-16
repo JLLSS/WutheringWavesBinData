@@ -295,5 +295,14 @@
         "SectorRadius": 2500,
         "SectorAngle": 180,
         "ToleranceAngle": 22.5
+    },
+    {
+        "Id": 1504044,
+        "Distance": 1300,
+        "UpDistance": 1000,
+        "DownDistance": 1000,
+        "SectorRadius": 2000,
+        "SectorAngle": 120,
+        "ToleranceAngle": 22.5
     }
 ]

@@ -707,16 +707,6 @@
         "Description": "SkillInput_160302_Description"
     },
     {
-        "Id": 160303,
-        "InputArray": [
-            "跳跃"
-        ],
-        "SkillArray": [
-            3
-        ],
-        "Description": "SkillInput_160303_Description"
-    },
-    {
         "Id": 160304,
         "InputArray": [
             "技能1"

@@ -5,7 +5,8 @@
         "AnimationPath": "/Game/Aki/Character/Role/FemaleMS/Dengdeng/CommonAnim/UiAnim/Ui_Rouge_Loop.Ui_Rouge_Loop",
         "AddProgress": 6,
         "IndexTexturePath": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamConnectRole/SP_Num01.png",
-        "WeaponShowConfig": {}
+        "WeaponShowConfig": {},
+        "WeaponShowCase": {}
     },
     {
         "Id": 8405,
@@ -13,7 +14,12 @@
         "AnimationPath": "/Game/Aki/Character/Role/FemaleM/Zhezhi/CommonAnim/UiAnim/Ui_Rouge_Loop.Ui_Rouge_Loop",
         "AddProgress": 6,
         "IndexTexturePath": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamConnectRole/SP_Num02.png",
-        "WeaponShowConfig": {}
+        "WeaponShowConfig": {
+            "4880026": "/Game/Aki/Character/Weapon/Prop/Role/ZhezhiProp/EZhezhiMaobixiaoMd10011/BaseAnim/Maobi_Ui_Rouge_Loop.Maobi_Ui_Rouge_Loop"
+        },
+        "WeaponShowCase": {
+            "4880026": "weaponprop02"
+        }
     },
     {
         "Id": 8402,
@@ -24,7 +30,8 @@
         "WeaponShowConfig": {
             "420059": "/Game/Aki/Character/Weapon/Prop/Role/AnkeYang/EAnkeMd10011/BaseAnim/Baiyang_Ui_Rouge_Loop.Baiyang_Ui_Rouge_Loop",
             "420060": "/Game/Aki/Character/Weapon/Prop/Role/AnkeYang/EAnkeMd10021/BaseAnim/Heiyang_Ui_Rouge_Loop.Heiyang_Ui_Rouge_Loop"
-        }
+        },
+        "WeaponShowCase": {}
     },
     {
         "Id": 8403,
@@ -34,7 +41,8 @@
         "IndexTexturePath": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamConnectRole/SP_Num04.png",
         "WeaponShowConfig": {
             "100703": "/Game/Aki/Character/Weapon/Prop/Role/YinlinProp/EYinlinDollMd10011/BaseAnim/Renou_Ui_Rouge_Loop.Renou_Ui_Rouge_Loop"
-        }
+        },
+        "WeaponShowCase": {}
     },
     {
         "Id": 8404,
@@ -42,7 +50,8 @@
         "AnimationPath": "/Game/Aki/Character/Role/FemaleXL/ChangLi/CommonAnim/UiAnim/Ui_Rouge_Loop.Ui_Rouge_Loop",
         "AddProgress": 6,
         "IndexTexturePath": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamConnectRole/SP_Num05.png",
-        "WeaponShowConfig": {}
+        "WeaponShowConfig": {},
+        "WeaponShowCase": {}
     },
     {
         "Id": 8401,
@@ -50,6 +59,7 @@
         "AnimationPath": "/Game/Aki/Character/Role/FemaleM/Chun/CommonAnim/UiAnim/Ui_Rouge_Loop.Ui_Rouge_Loop",
         "AddProgress": 8,
         "IndexTexturePath": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamConnectRole/SP_Num06.png",
-        "WeaponShowConfig": {}
+        "WeaponShowConfig": {},
+        "WeaponShowCase": {}
     }
 ]

@@ -3262,7 +3262,8 @@
         "SkillInfoList": [],
         "BuffList": [],
         "DamageList": [
-            1603600001
+            1603600001,
+            1603600901
         ],
         "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunQTE.png",
         "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconmicaiQTE_UI.png",
@@ -3309,10 +3310,11 @@
             "50%",
             "0%",
             "100",
-            "50",
+            "100",
             "50",
             "20",
-            "20"
+            "20",
+            "100"
         ],
         "SkillResumeNum": [
             "150%",
@@ -3328,10 +3330,11 @@
             "50%",
             "0%",
             "100",
-            "50",
+            "100",
             "50",
             "20",
-            "20"
+            "20",
+            "100"
         ],
         "MultiSkillDescribe": "Skill_1001307_SkillDescribe",
         "MultiSkillDetailNum": [
@@ -3348,10 +3351,11 @@
             "50%",
             "0%",
             "100",
-            "50",
+            "100",
             "50",
             "20",
-            "20"
+            "20",
+            "100"
         ]
     },
     {
@@ -5353,17 +5357,17 @@
             304
         ],
         "SkillDetailNum": [
-            "329%",
-            "459%"
+            "329.24%",
+            "459.02%"
         ],
         "SkillResumeNum": [
-            "329%",
-            "459%"
+            "329.24%",
+            "459.02%"
         ],
         "MultiSkillDescribe": "Skill_1001309_MultiSkillDescribe_1.4",
         "MultiSkillDetailNum": [
-            "329%",
-            "459%"
+            "329.24%",
+            "459.02%"
         ]
     },
     {
@@ -7341,17 +7345,18 @@
         "BuffList": [],
         "DamageList": [
             1504010000,
-            1504011000,
-            1504017000,
+            1504030000,
+            1504085000,
             1504020000,
             1504021000,
-            1504022000,
             1504024000,
-            1504025000,
-            1504030000,
-            1504031000,
             1504032000,
-            1504033000
+            1504232000,
+            1504084000,
+            1504221000,
+            1504022000,
+            1504025000,
+            1504222000
         ],
         "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.png",
         "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconNvzhuC1_UI.png",
@@ -7482,7 +7487,9 @@
         "MaxSkillLevel": 10,
         "SkillInfoList": [],
         "BuffList": [],
-        "DamageList": [],
+        "DamageList": [
+            1504060000
+        ],
         "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengQTE.png",
         "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconNvzhuQTE_UI.png",
         "SortIndex": 4,
@@ -7505,8 +7512,19 @@
         "SkillInfoList": [],
         "BuffList": [],
         "DamageList": [
+            1504130000,
+            1504120000,
+            1504121000,
+            1504124000,
+            1504132000,
             1504042000,
-            1504043000
+            1504043000,
+            1504017000,
+            1504017001,
+            1504122000,
+            1504125000,
+            1504332000,
+            1504142000
         ],
         "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengY.png",
         "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconNvzhuD1_UI.png",
@@ -7583,7 +7601,7 @@
             "38%",
             "10"
         ],
-        "MultiSkillDescribe": "Skill_1002609_SkillDescribe",
+        "MultiSkillDescribe": "Skill_1002609_MultiSkillDescribe",
         "MultiSkillDetailNum": [
             "38%",
             "10"

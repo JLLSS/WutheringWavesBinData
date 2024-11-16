@@ -2185,8 +2185,8 @@
     },
     {
         "Id": 10035003,
-        "TextId": "RogueEvent_10035002_text",
-        "Title": "RogueEvent_10035002_titile",
+        "TextId": "RogueEvent_10035003_text",
+        "Title": "RogueEvent_10035003_titile",
         "Condition": 0,
         "EventType": 0,
         "Args": [
@@ -2256,7 +2256,7 @@
     {
         "Id": 10040004,
         "TextId": "RogueEvent_10040004_text",
-        "Title": "RogueEvent_10040003_titile",
+        "Title": "RogueEvent_10040004_titile",
         "Condition": 0,
         "EventType": 0,
         "Args": [

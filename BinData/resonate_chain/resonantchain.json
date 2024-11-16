@@ -1593,17 +1593,16 @@
         "BgDescription": "PrefabTextItem_Empty_Text",
         "BuffIds": [
             1603803001,
-            1603803003
+            1603803006
         ],
         "AddProp": [],
         "ActivateConsume": {
             "10001603": 1
         },
         "AttributesDescriptionParams": [
-            "50",
-            "6%",
-            "10",
-            "5"
+            "28%",
+            "18",
+            "25"
         ],
         "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChunM1_UI.png"
     },
@@ -1690,7 +1689,7 @@
             "10001603": 1
         },
         "AttributesDescriptionParams": [
-            "50%",
+            "303%",
             "68%"
         ],
         "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChunM5_UI.png"
@@ -1715,10 +1714,11 @@
         "AttributesDescriptionParams": [
             "150%",
             "15",
-            "100",
             "50",
             "50",
-            "25"
+            "100%",
+            "25",
+            "250%"
         ],
         "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChunM6_UI.png"
     },
@@ -3299,7 +3299,8 @@
             "10001504": 1
         },
         "AttributesDescriptionParams": [
-            "10"
+            "3",
+            "60"
         ],
         "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_DengdengM1_UI.png"
     },
@@ -3404,7 +3405,8 @@
             "10001504": 1
         },
         "AttributesDescriptionParams": [
-            "20%"
+            "20%",
+            "20"
         ],
         "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_DengdengM6_UI.png"
     }

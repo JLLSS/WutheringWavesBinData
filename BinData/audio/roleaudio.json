@@ -947,7 +947,7 @@
         "ScanTreasureBoxEvent": "play_vo_youhu_com_scan",
         "JoinTeamEvent": "play_vo_youhu_sys_jointeam",
         "LostHealthEventMap": {
-            "1": "play_vo_youhu_com_die",
+            "0": "play_vo_youhu_com_die",
             "30": "play_vo_youhu_com_hpdown03",
             "50": "play_vo_youhu_com_hpdown02",
             "70": "play_vo_youhu_com_hpdown01"
@@ -986,7 +986,7 @@
         "ScanTreasureBoxEvent": "play_vo_shouanren_com_scan",
         "JoinTeamEvent": "play_vo_shouanren_sys_jointeam",
         "LostHealthEventMap": {
-            "2": "play_vo_shouanren_com_die",
+            "0": "play_vo_shouanren_com_die",
             "30": "play_vo_shouanren_com_hpdown03",
             "50": "play_vo_shouanren_com_hpdown02",
             "70": "play_vo_shouanren_com_hpdown01"
@@ -1025,7 +1025,7 @@
         "ScanTreasureBoxEvent": "play_vo_chun_com_scan",
         "JoinTeamEvent": "play_vo_chun_sys_jointeam",
         "LostHealthEventMap": {
-            "1": "play_vo_chun_com_die",
+            "0": "play_vo_chun_com_die",
             "30": "play_vo_chun_com_hpdown03",
             "50": "play_vo_chun_com_hpdown02",
             "70": "play_vo_chun_com_hpdown01"
@@ -1043,8 +1043,8 @@
             "play_vo_chun_sys_rankup04",
             "play_vo_chun_sys_rankup05"
         ],
-        "ExtremeDodgeEvent": "play_vo_chun_skill_counteratk",
-        "ParryEvent": "play_vo_chun_skill_limitdodge",
+        "ExtremeDodgeEvent": "play_vo_chun_skill_limitdodge",
+        "ParryEvent": "play_vo_chun_skill_counteratk",
         "EnterBattleEvent": "play_vo_chun_com_engage",
         "UnderAttackEvent": "play_vo_chun_com_behit",
         "KnockUpEvent": "play_vo_chun_com_behitfly",
@@ -1064,7 +1064,7 @@
         "ScanTreasureBoxEvent": "play_vo_dengdeng_com_scan",
         "JoinTeamEvent": "play_vo_dengdeng_sys_jointeam",
         "LostHealthEventMap": {
-            "2": "play_vo_dengdeng_com_die",
+            "0": "play_vo_dengdeng_com_die",
             "30": "play_vo_dengdeng_com_hpdown03",
             "50": "play_vo_dengdeng_com_hpdown02",
             "70": "play_vo_dengdeng_com_hpdown01"
@@ -1082,8 +1082,8 @@
             "play_vo_dengdeng_sys_rankup04",
             "play_vo_dengdeng_sys_rankup05"
         ],
-        "ExtremeDodgeEvent": "play_vo_dengdeng_skill_counteratk",
-        "ParryEvent": "play_vo_dengdeng_skill_limitdodge",
+        "ExtremeDodgeEvent": "",
+        "ParryEvent": "",
         "EnterBattleEvent": "play_vo_dengdeng_com_engage",
         "UnderAttackEvent": "play_vo_dengdeng_com_behit",
         "KnockUpEvent": "play_vo_dengdeng_com_behitfly",

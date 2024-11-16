@@ -187,7 +187,7 @@
         "BigIcon": 0,
         "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.png",
         "ElementIdArray": [
-            4
+            2
         ],
         "MonsterEntityID": "Monster006",
         "MonsterPose": 0,
@@ -241,7 +241,7 @@
         "BigIcon": 0,
         "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.png",
         "ElementIdArray": [
-            5
+            6
         ],
         "MonsterEntityID": "Monster009",
         "MonsterPose": 0,

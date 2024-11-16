@@ -212,37 +212,37 @@
     {
         "Id": 1102,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1103,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1104,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1105,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1106,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1107,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 1108,
         "Type": 1,
-        "LevelGroupId": 1
+        "LevelGroupId": 5
     },
     {
         "Id": 20002,
@@ -261,6 +261,21 @@
     },
     {
         "Id": 20005,
+        "Type": 4,
+        "LevelGroupId": 2
+    },
+    {
+        "Id": 20006,
+        "Type": 4,
+        "LevelGroupId": 2
+    },
+    {
+        "Id": 20007,
+        "Type": 4,
+        "LevelGroupId": 2
+    },
+    {
+        "Id": 20008,
         "Type": 4,
         "LevelGroupId": 2
     }

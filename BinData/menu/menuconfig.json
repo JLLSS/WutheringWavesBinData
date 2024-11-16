@@ -182,12 +182,8 @@
         "DisableFunction": [
             6
         ],
-        "AffectedValue": [
-            1
-        ],
-        "AffectedFunction": {
-            "6": 2
-        },
+        "AffectedValue": [],
+        "AffectedFunction": {},
         "ValueTipsMap": {},
         "ClickedTipsMap": {},
         "ClickedTips": 0,
@@ -259,12 +255,14 @@
         "OptionsName": [
             "MenuConfig_56_OptionsName_0",
             "MenuConfig_56_OptionsName_1",
-            "MenuConfig_56_OptionsName_2"
+            "MenuConfig_56_OptionsName_2",
+            "MenuConfig_43_OptionsName_3"
         ],
         "OptionsValue": [
             0,
             1,
-            2
+            2,
+            3
         ],
         "KeyMap": "",
         "ButtonText": "",
@@ -4306,46 +4304,6 @@
         "ConditionGroup": 0
     },
     {
-        "Id": 20024,
-        "FunctionId": 20024,
-        "SliderDefault": 0,
-        "OptionsDefault": 0,
-        "MainType": 2,
-        "SubName": "MenuConfig_55_SubName",
-        "SubType": 0,
-        "SubSort": 2,
-        "SubImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
-        "Name": "MenuConfig_20024_Name",
-        "Platform": 0,
-        "FunctionSort": 24,
-        "FunctionImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
-        "SetType": 2,
-        "SliderRange": [],
-        "Digits": 0,
-        "OptionsName": [
-            "MenuConfig_55_OptionsName_0",
-            "MenuConfig_55_OptionsName_1"
-        ],
-        "OptionsValue": [
-            0,
-            1
-        ],
-        "KeyMap": "",
-        "ButtonText": "",
-        "OpenView": "",
-        "RelationFunction": [],
-        "DisableValue": [],
-        "DisableFunction": [],
-        "AffectedValue": [],
-        "AffectedFunction": {},
-        "ValueTipsMap": {},
-        "ClickedTipsMap": {},
-        "ClickedTips": 0,
-        "BlockOnIosCheckServer": false,
-        "DetailText": "",
-        "ConditionGroup": 0
-    },
-    {
         "Id": 145,
         "FunctionId": 145,
         "SliderDefault": 0,
@@ -4405,6 +4363,126 @@
         "OptionsName": [
             "MenuConfig_52_OptionsName_0",
             "MenuConfig_52_OptionsName_1"
+        ],
+        "OptionsValue": [
+            0,
+            1
+        ],
+        "KeyMap": "",
+        "ButtonText": "",
+        "OpenView": "",
+        "RelationFunction": [],
+        "DisableValue": [],
+        "DisableFunction": [],
+        "AffectedValue": [],
+        "AffectedFunction": {},
+        "ValueTipsMap": {},
+        "ClickedTipsMap": {},
+        "ClickedTips": 0,
+        "BlockOnIosCheckServer": false,
+        "DetailText": "",
+        "ConditionGroup": 0
+    },
+    {
+        "Id": 200241,
+        "FunctionId": 20024,
+        "SliderDefault": 0,
+        "OptionsDefault": 1,
+        "MainType": 2,
+        "SubName": "MenuConfig_55_SubName",
+        "SubType": 0,
+        "SubSort": 2,
+        "SubImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "Name": "MenuConfig_20024_Name",
+        "Platform": 1,
+        "FunctionSort": 24,
+        "FunctionImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "SetType": 2,
+        "SliderRange": [],
+        "Digits": 0,
+        "OptionsName": [
+            "MenuConfig_55_OptionsName_0",
+            "MenuConfig_55_OptionsName_1"
+        ],
+        "OptionsValue": [
+            0,
+            1
+        ],
+        "KeyMap": "",
+        "ButtonText": "",
+        "OpenView": "",
+        "RelationFunction": [],
+        "DisableValue": [],
+        "DisableFunction": [],
+        "AffectedValue": [],
+        "AffectedFunction": {},
+        "ValueTipsMap": {},
+        "ClickedTipsMap": {},
+        "ClickedTips": 0,
+        "BlockOnIosCheckServer": false,
+        "DetailText": "",
+        "ConditionGroup": 0
+    },
+    {
+        "Id": 200242,
+        "FunctionId": 20024,
+        "SliderDefault": 0,
+        "OptionsDefault": 0,
+        "MainType": 2,
+        "SubName": "MenuConfig_55_SubName",
+        "SubType": 0,
+        "SubSort": 2,
+        "SubImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "Name": "MenuConfig_20024_Name",
+        "Platform": 2,
+        "FunctionSort": 24,
+        "FunctionImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "SetType": 2,
+        "SliderRange": [],
+        "Digits": 0,
+        "OptionsName": [
+            "MenuConfig_55_OptionsName_0",
+            "MenuConfig_55_OptionsName_1"
+        ],
+        "OptionsValue": [
+            0,
+            1
+        ],
+        "KeyMap": "",
+        "ButtonText": "",
+        "OpenView": "",
+        "RelationFunction": [],
+        "DisableValue": [],
+        "DisableFunction": [],
+        "AffectedValue": [],
+        "AffectedFunction": {},
+        "ValueTipsMap": {},
+        "ClickedTipsMap": {},
+        "ClickedTips": 0,
+        "BlockOnIosCheckServer": false,
+        "DetailText": "",
+        "ConditionGroup": 0
+    },
+    {
+        "Id": 200245,
+        "FunctionId": 20024,
+        "SliderDefault": 0,
+        "OptionsDefault": 1,
+        "MainType": 2,
+        "SubName": "MenuConfig_55_SubName",
+        "SubType": 0,
+        "SubSort": 2,
+        "SubImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "Name": "MenuConfig_20024_Name",
+        "Platform": 5,
+        "FunctionSort": 24,
+        "FunctionImage": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.png",
+        "SetType": 2,
+        "SliderRange": [],
+        "Digits": 0,
+        "OptionsName": [
+            "MenuConfig_55_OptionsName_0",
+            "MenuConfig_55_OptionsName_1"
         ],
         "OptionsValue": [
             0,

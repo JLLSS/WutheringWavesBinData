@@ -7,7 +7,7 @@
         "Count": 1,
         "RoomCount": 1,
         "BuffArray1": [
-            900312100010011
+            900312100010081
         ],
         "ExtraEffectTypeArray1": [
             "GetGold"
@@ -27,7 +27,7 @@
         "Count": 1,
         "RoomCount": 1,
         "BuffArray1": [
-            900312100010021
+            900312100010091
         ],
         "ExtraEffectTypeArray1": [
             "GetGold"
@@ -119,7 +119,7 @@
         "Count": 1,
         "RoomCount": 1,
         "BuffArray1": [
-            900312100010031
+            900312100010101
         ],
         "ExtraEffectTypeArray1": [],
         "ExtraEffectTypeArgsArray1": [],
@@ -189,7 +189,7 @@
         "Count": 1,
         "RoomCount": 1,
         "BuffArray1": [
-            900312100010041
+            900312100010111
         ],
         "ExtraEffectTypeArray1": [
             "RollGain"
@@ -518,7 +518,7 @@
             "BallGetGold"
         ],
         "ExtraEffectTypeArgsArray1": [
-            "500000"
+            "200000"
         ],
         "BuffArray2": [],
         "ExtraEffectTypeArray2": [],
@@ -742,7 +742,7 @@
             "GoldGetRatioUpRatio"
         ],
         "ExtraEffectTypeArgsArray1": [
-            "20000"
+            "5000"
         ],
         "BuffArray2": [],
         "ExtraEffectTypeArray2": [],
@@ -1440,7 +1440,8 @@
         "Count": 1,
         "RoomCount": 99,
         "BuffArray1": [
-            900170000456
+            900170000456,
+            900170000476
         ],
         "ExtraEffectTypeArray1": [],
         "ExtraEffectTypeArgsArray1": [],
@@ -1488,7 +1489,8 @@
         "Count": 1,
         "RoomCount": 99,
         "BuffArray1": [
-            900170000461
+            900170000220,
+            900170000221
         ],
         "ExtraEffectTypeArray1": [],
         "ExtraEffectTypeArgsArray1": [],
@@ -1693,7 +1695,7 @@
             "RollGain"
         ],
         "ExtraEffectTypeArgsArray1": [
-            "1;lianji;2;3|4"
+            "1;gongmingjineng;3;3|4"
         ],
         "BuffArray2": [],
         "ExtraEffectTypeArray2": [],
@@ -1711,7 +1713,7 @@
             "RollGain"
         ],
         "ExtraEffectTypeArgsArray1": [
-            "1;gongmingjineng;3;3|4"
+            "1;lianji;2;3|4"
         ],
         "BuffArray2": [],
         "ExtraEffectTypeArray2": [],

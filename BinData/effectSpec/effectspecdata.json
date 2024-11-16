@@ -14037,14 +14037,14 @@
     {
         "Id": -1810642192,
         "SpecType": 1,
-        "EffectRegularType": 0,
+        "EffectRegularType": 1,
         "LifeTime": -1,
         "Children": []
     },
     {
         "Id": -1058336966,
         "SpecType": 1,
-        "EffectRegularType": 0,
+        "EffectRegularType": 1,
         "LifeTime": 10000,
         "Children": []
     },
@@ -43270,7 +43270,7 @@
         "Id": -1991623851,
         "SpecType": 1,
         "EffectRegularType": 2,
-        "LifeTime": 20000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -43452,7 +43452,7 @@
         "Id": -1307334283,
         "SpecType": 1,
         "EffectRegularType": 2,
-        "LifeTime": 20000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -43501,7 +43501,7 @@
         "Id": -1979981559,
         "SpecType": 1,
         "EffectRegularType": 2,
-        "LifeTime": 20000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -70324,7 +70324,7 @@
         "EffectRegularType": 9,
         "LifeTime": -1,
         "Children": [
-            644718578
+            1323292906
         ]
     },
     {
@@ -80864,14 +80864,14 @@
     {
         "Id": -1203138002,
         "SpecType": 0,
-        "EffectRegularType": 0,
+        "EffectRegularType": 1,
         "LifeTime": -1,
         "Children": []
     },
     {
         "Id": 1709790312,
         "SpecType": 0,
-        "EffectRegularType": 0,
+        "EffectRegularType": 1,
         "LifeTime": 10000,
         "Children": []
     },
@@ -115491,7 +115491,7 @@
         "Id": -1622246363,
         "SpecType": 0,
         "EffectRegularType": 2,
-        "LifeTime": 15000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -115718,7 +115718,7 @@
         "Id": -1672465113,
         "SpecType": 0,
         "EffectRegularType": 2,
-        "LifeTime": 100000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -115735,7 +115735,7 @@
         "LifeTime": 100000,
         "Children": [
             268432373,
-            402176544
+            540321088
         ]
     },
     {
@@ -115756,7 +115756,7 @@
         "Id": -1509448301,
         "SpecType": 0,
         "EffectRegularType": 2,
-        "LifeTime": 100000,
+        "LifeTime": -1,
         "Children": []
     },
     {
@@ -137126,6 +137126,55 @@
         "SpecType": 6,
         "EffectRegularType": -1,
         "LifeTime": -1,
+        "Children": []
+    },
+    {
+        "Id": -4611297,
+        "SpecType": 1,
+        "EffectRegularType": 2,
+        "LifeTime": 15000,
+        "Children": []
+    },
+    {
+        "Id": -1480629779,
+        "SpecType": 1,
+        "EffectRegularType": 2,
+        "LifeTime": 15000,
+        "Children": []
+    },
+    {
+        "Id": 1127386909,
+        "SpecType": 0,
+        "EffectRegularType": 2,
+        "LifeTime": 15000,
+        "Children": []
+    },
+    {
+        "Id": 1808602747,
+        "SpecType": 0,
+        "EffectRegularType": 2,
+        "LifeTime": 15000,
+        "Children": []
+    },
+    {
+        "Id": -1300398140,
+        "SpecType": 2,
+        "EffectRegularType": -1,
+        "LifeTime": -1,
+        "Children": []
+    },
+    {
+        "Id": -1595898662,
+        "SpecType": 2,
+        "EffectRegularType": -1,
+        "LifeTime": -1,
+        "Children": []
+    },
+    {
+        "Id": 1564787585,
+        "SpecType": 1,
+        "EffectRegularType": 3,
+        "LifeTime": 20000,
         "Children": []
     }
 ]

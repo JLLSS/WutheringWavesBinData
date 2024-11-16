@@ -4065,262 +4065,13 @@
         "AlternativeConsume": []
     },
     {
-        "Id": 415,
-        "ResonId": 21010073,
-        "Level": 1,
-        "Name": "WeaponReson_21010073_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 4000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 416,
-        "ResonId": 21010073,
-        "Level": 2,
-        "Name": "WeaponReson_21010073_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 8000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 417,
-        "ResonId": 21010073,
-        "Level": 3,
-        "Name": "WeaponReson_21010073_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 12000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 418,
-        "ResonId": 21010073,
-        "Level": 4,
-        "Name": "WeaponReson_21010073_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 16000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 419,
-        "ResonId": 21010073,
-        "Level": 5,
-        "Name": "WeaponReson_21010073_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 0,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 420,
-        "ResonId": 21020063,
-        "Level": 1,
-        "Name": "WeaponReson_21020063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 4000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 421,
-        "ResonId": 21020063,
-        "Level": 2,
-        "Name": "WeaponReson_21020063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 8000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 422,
-        "ResonId": 21020063,
-        "Level": 3,
-        "Name": "WeaponReson_21020063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 12000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 423,
-        "ResonId": 21020063,
-        "Level": 4,
-        "Name": "WeaponReson_21020063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 16000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 424,
-        "ResonId": 21020063,
-        "Level": 5,
-        "Name": "WeaponReson_21020063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 0,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 425,
-        "ResonId": 21030063,
-        "Level": 1,
-        "Name": "WeaponReson_21030063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 4000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 426,
-        "ResonId": 21030063,
-        "Level": 2,
-        "Name": "WeaponReson_21030063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 8000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 427,
-        "ResonId": 21030063,
-        "Level": 3,
-        "Name": "WeaponReson_21030063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 12000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 428,
-        "ResonId": 21030063,
-        "Level": 4,
-        "Name": "WeaponReson_21030063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 16000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 429,
-        "ResonId": 21030063,
-        "Level": 5,
-        "Name": "WeaponReson_21030063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 0,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 430,
-        "ResonId": 21040063,
-        "Level": 1,
-        "Name": "WeaponReson_21040063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 4000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 431,
-        "ResonId": 21040063,
-        "Level": 2,
-        "Name": "WeaponReson_21040063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 8000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 432,
-        "ResonId": 21040063,
-        "Level": 3,
-        "Name": "WeaponReson_21040063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 12000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 433,
-        "ResonId": 21040063,
-        "Level": 4,
-        "Name": "WeaponReson_21040063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 16000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 434,
-        "ResonId": 21040063,
-        "Level": 5,
-        "Name": "WeaponReson_21040063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 0,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 435,
-        "ResonId": 21050063,
-        "Level": 1,
-        "Name": "WeaponReson_21050063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 4000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 436,
-        "ResonId": 21050063,
-        "Level": 2,
-        "Name": "WeaponReson_21050063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 8000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 437,
-        "ResonId": 21050063,
-        "Level": 3,
-        "Name": "WeaponReson_21050063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 12000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 438,
-        "ResonId": 21050063,
-        "Level": 4,
-        "Name": "WeaponReson_21050063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 16000,
-        "AlternativeConsume": []
-    },
-    {
-        "Id": 439,
-        "ResonId": 21050063,
-        "Level": 5,
-        "Name": "WeaponReson_21050063_Name",
-        "Effect": [],
-        "Consume": 1,
-        "GoldConsume": 0,
-        "AlternativeConsume": []
-    },
-    {
         "Id": 440,
         "ResonId": 21020026,
         "Level": 1,
         "Name": "WeaponReson_21020026_Name",
         "Effect": [
-            110010001
+            110010001,
+            110010011
         ],
         "Consume": 1,
         "GoldConsume": 10000,
@@ -4332,7 +4083,8 @@
         "Level": 2,
         "Name": "WeaponReson_21020026_Name",
         "Effect": [
-            110010003
+            110010003,
+            110010012
         ],
         "Consume": 1,
         "GoldConsume": 20000,
@@ -4344,7 +4096,8 @@
         "Level": 3,
         "Name": "WeaponReson_21020026_Name",
         "Effect": [
-            110010005
+            110010005,
+            110010013
         ],
         "Consume": 1,
         "GoldConsume": 30000,
@@ -4356,7 +4109,8 @@
         "Level": 4,
         "Name": "WeaponReson_21020026_Name",
         "Effect": [
-            110010007
+            110010007,
+            110010014
         ],
         "Consume": 1,
         "GoldConsume": 40000,
@@ -4368,7 +4122,8 @@
         "Level": 5,
         "Name": "WeaponReson_21020026_Name",
         "Effect": [
-            110010009
+            110010009,
+            110010015
         ],
         "Consume": 1,
         "GoldConsume": 0,

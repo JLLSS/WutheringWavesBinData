@@ -1860,5 +1860,23 @@
             1,
             1
         ]
+    },
+    {
+        "Id": 631100012,
+        "Priority": 3,
+        "RefrenceAttribute": 2,
+        "RefrenceTarget": 0,
+        "AttributeRate": [
+            0.30000001192092896
+        ],
+        "Value": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
     }
 ]

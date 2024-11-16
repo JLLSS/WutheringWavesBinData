@@ -176,8 +176,7 @@
         "Id": 10,
         "Block": "0_-2",
         "MultiMapList": [
-            7,
-            8
+            7
         ],
         "MultiMapRangeList": [
             {
@@ -186,32 +185,6 @@
                     500,
                     650,
                     800
-                ]
-            },
-            {
-                "ArrayInt": [
-                    650,
-                    400,
-                    800,
-                    850
-                ]
-            }
-        ],
-        "MapConfigId": 8
-    },
-    {
-        "Id": 11,
-        "Block": "0_-1",
-        "MultiMapList": [
-            8
-        ],
-        "MultiMapRangeList": [
-            {
-                "ArrayInt": [
-                    450,
-                    0,
-                    750,
-                    150
                 ]
             }
         ],

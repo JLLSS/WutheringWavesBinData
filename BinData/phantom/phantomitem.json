@@ -13823,8 +13823,8 @@
             20
         ],
         "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1GuguhetunMd00201/CommonAnim/Stand2.Stand2",
-        "TypeDescription": "PhantomItem_60000012_TypeDescription",
-        "AttributesDescription": "PhantomItem_60000012_AttributesDescription",
+        "TypeDescription": "PhantomItem_60000020_TypeDescription",
+        "AttributesDescription": "PhantomItem_60000020_AttributesDescription",
         "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_115_1_UI.png",
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods160/T_IconMonsterGoods160_111_1_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_111_1_UI.png",
@@ -13879,8 +13879,8 @@
             0
         ],
         "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1YouLinJiShuMd00201/CommonAnim/Stand2.Stand2",
-        "TypeDescription": "PhantomItem_60000012_TypeDescription",
-        "AttributesDescription": "PhantomItem_60000012_AttributesDescription",
+        "TypeDescription": "PhantomItem_60000020_TypeDescription",
+        "AttributesDescription": "PhantomItem_60000020_AttributesDescription",
         "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_329_1_UI.png",
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods160/T_IconMonsterGoods160_325_1_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_325_1_UI.png",
@@ -14630,8 +14630,8 @@
             -28
         ],
         "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1QishiMd00001/CommonAnim/Walk_F_Test.Walk_F_Test",
-        "TypeDescription": "PhantomItem_60000012_TypeDescription",
-        "AttributesDescription": "PhantomItem_60000012_AttributesDescription",
+        "TypeDescription": "PhantomItem_60000020_TypeDescription",
+        "AttributesDescription": "PhantomItem_60000020_AttributesDescription",
         "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_1_UI.png",
         "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods160/T_IconMonsterGoods160_321_1_UI.png",
         "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_321_1_UI.png",
@@ -14639,7 +14639,7 @@
         "QualityId": 5,
         "MaxCapcity": 999999999,
         "ItemAccess": [
-            604001
+            503007
         ],
         "ObtainedShow": 1,
         "ObtainedShowDescription": "PhantomItem_60000012_ObtainedShowDescription",

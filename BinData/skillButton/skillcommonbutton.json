@@ -61,12 +61,12 @@
         "SkillId": 100001,
         "SkillIdTagMap": {
             "角色.R2T1ShouanrenMd10011.buff标识.退场技.buff2": 100023,
-            "角色.R2T1DengDengMd10011.状态标识.黄灯": 1504035
+            "角色.R2T1DengDengMd10011.状态标识.黄灯技能图标用": 1504035
         },
         "SkillIconTags": [
             "行为状态.位置状态.水中",
             "幻象.声骸角色.叮咚咚.疾跑",
-            "关卡.子弹跑.可使用"
+            "关卡.子弹跑.显示图标"
         ],
         "EnableTags": [],
         "DisableTags": [
@@ -86,7 +86,7 @@
         "LongPressTime": 300,
         "DynamicEffectTagMap": {
             "角色.R2T1ShouanrenMd10011.buff标识.退场技.buff2": 1002,
-            "关卡.子弹跑.可使用": 1002,
+            "关卡.子弹跑.显示图标": 1002,
             "角色.R2T1DengDengMd10011.状态标识.黄灯plus状态": 15041000
         }
     },
@@ -239,7 +239,8 @@
         "IsLongPressControlCamera": false,
         "LongPressTime": 0,
         "DynamicEffectTagMap": {
-            "系统.角色梦境.封印技能": 291003
+            "系统.角色梦境.封印技能": 291003,
+            "系统.肉鸽.声骸BD.无妄者.解锁领域词条.激活二段Q": 291001
         }
     },
     {

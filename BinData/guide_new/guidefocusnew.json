@@ -25725,11 +25725,15 @@
         "ContentDirection": "D",
         "ShowArrow": true,
         "Content": "GuideFocusNew_20290_Content",
-        "Button": [],
-        "InputEnums": [],
+        "Button": [
+            "UI键盘E手柄RB"
+        ],
+        "InputEnums": [
+            "UI键盘E手柄RB"
+        ],
         "LimitInputEnums": [],
         "ShowMouse": false,
-        "UseMask": true,
+        "UseMask": false,
         "UseClick": true,
         "ClickAnywhere": false,
         "ClickAnywhereShowTime": 0,
@@ -25991,87 +25995,6 @@
         "TextInScreen": true
     },
     {
-        "GuideId": 637,
-        "ViewName": "TeamRoleSelectView",
-        "DynamicTabName": "",
-        "Platform": "桌面端",
-        "HookName": "",
-        "HookNameForShow": "",
-        "ExtraParam": [
-            "Dream"
-        ],
-        "ExtraParamDesc": "大猫技能",
-        "ContentDirection": "D",
-        "ShowArrow": true,
-        "Content": "GuideFocusNew_637_Content",
-        "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
-        "ShowMouse": true,
-        "UseMask": false,
-        "UseClick": true,
-        "ClickAnywhere": false,
-        "ClickAnywhereShowTime": 0,
-        "OnlyFrame": false,
-        "OnlyText": false,
-        "RoleHeadId": 0,
-        "TextInScreen": true
-    },
-    {
-        "GuideId": 638,
-        "ViewName": "TeamRoleSelectView",
-        "DynamicTabName": "",
-        "Platform": "手柄",
-        "HookName": "",
-        "HookNameForShow": "",
-        "ExtraParam": [
-            "Dream"
-        ],
-        "ExtraParamDesc": "大猫技能",
-        "ContentDirection": "D",
-        "ShowArrow": true,
-        "Content": "GuideFocusNew_638_Content",
-        "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
-        "ShowMouse": true,
-        "UseMask": false,
-        "UseClick": true,
-        "ClickAnywhere": false,
-        "ClickAnywhereShowTime": 0,
-        "OnlyFrame": false,
-        "OnlyText": false,
-        "RoleHeadId": 0,
-        "TextInScreen": true
-    },
-    {
-        "GuideId": 639,
-        "ViewName": "TeamRoleSelectView",
-        "DynamicTabName": "",
-        "Platform": "移动端",
-        "HookName": "",
-        "HookNameForShow": "",
-        "ExtraParam": [
-            "Dream"
-        ],
-        "ExtraParamDesc": "大猫技能",
-        "ContentDirection": "D",
-        "ShowArrow": true,
-        "Content": "GuideFocusNew_639_Content",
-        "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
-        "ShowMouse": true,
-        "UseMask": false,
-        "UseClick": true,
-        "ClickAnywhere": false,
-        "ClickAnywhereShowTime": 0,
-        "OnlyFrame": false,
-        "OnlyText": false,
-        "RoleHeadId": 0,
-        "TextInScreen": true
-    },
-    {
         "GuideId": 640,
         "ViewName": "CommonActivityView",
         "DynamicTabName": "",
@@ -26183,7 +26106,9 @@
         "ContentDirection": "U",
         "ShowArrow": true,
         "Content": "GuideFocusNew_644_Content",
-        "Button": [],
+        "Button": [
+            "UI键盘Q手柄LB"
+        ],
         "InputEnums": [],
         "LimitInputEnums": [],
         "ShowMouse": true,
@@ -26310,7 +26235,9 @@
         "Content": "GuideFocusNew_649_Content",
         "Button": [],
         "InputEnums": [],
-        "LimitInputEnums": [],
+        "LimitInputEnums": [
+            "UI左键点击"
+        ],
         "ShowMouse": true,
         "UseMask": true,
         "UseClick": true,
@@ -26334,8 +26261,12 @@
         "ShowArrow": true,
         "Content": "GuideFocusNew_650_Content",
         "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
+        "InputEnums": [
+            "手柄引导下一步"
+        ],
+        "LimitInputEnums": [
+            "手柄引导下一步"
+        ],
         "ShowMouse": true,
         "UseMask": true,
         "UseClick": true,
@@ -26389,7 +26320,9 @@
         "InputEnums": [
             "大招"
         ],
-        "LimitInputEnums": [],
+        "LimitInputEnums": [
+            "大招"
+        ],
         "ShowMouse": false,
         "UseMask": true,
         "UseClick": true,
@@ -26437,9 +26370,7 @@
         "ContentDirection": "L",
         "ShowArrow": true,
         "Content": "GuideFocusNew_655_Content",
-        "Button": [
-            "切换角色2"
-        ],
+        "Button": [],
         "InputEnums": [
             "切换角色2"
         ],
@@ -26470,9 +26401,7 @@
         "ContentDirection": "L",
         "ShowArrow": true,
         "Content": "GuideFocusNew_656_Content",
-        "Button": [
-            "切换角色2"
-        ],
+        "Button": [],
         "InputEnums": [
             "切换角色2"
         ],
@@ -26714,7 +26643,7 @@
         "Button": [],
         "InputEnums": [],
         "LimitInputEnums": [],
-        "ShowMouse": false,
+        "ShowMouse": true,
         "UseMask": false,
         "UseClick": true,
         "ClickAnywhere": false,
@@ -26734,18 +26663,24 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1211_Content",
-        "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
         "ShowMouse": false,
-        "UseMask": false,
+        "UseMask": true,
         "UseClick": false,
         "ClickAnywhere": false,
         "ClickAnywhereShowTime": 0,
         "OnlyFrame": false,
-        "OnlyText": true,
+        "OnlyText": false,
         "RoleHeadId": 0,
         "TextInScreen": true
     },
@@ -26759,18 +26694,24 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1212_Content",
-        "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
         "ShowMouse": false,
-        "UseMask": false,
+        "UseMask": true,
         "UseClick": false,
-        "ClickAnywhere": false,
+        "ClickAnywhere": true,
         "ClickAnywhereShowTime": 0,
         "OnlyFrame": false,
-        "OnlyText": true,
+        "OnlyText": false,
         "RoleHeadId": 0,
         "TextInScreen": true
     },
@@ -26784,18 +26725,22 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1213_Content",
         "Button": [],
-        "InputEnums": [],
-        "LimitInputEnums": [],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
         "ShowMouse": false,
-        "UseMask": false,
+        "UseMask": true,
         "UseClick": false,
         "ClickAnywhere": false,
         "ClickAnywhereShowTime": 0,
         "OnlyFrame": false,
-        "OnlyText": true,
+        "OnlyText": false,
         "RoleHeadId": 0,
         "TextInScreen": true
     },
@@ -26809,7 +26754,7 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1214_Content",
         "Button": [],
         "InputEnums": [],
@@ -26834,7 +26779,7 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1215_Content",
         "Button": [],
         "InputEnums": [],
@@ -26859,7 +26804,7 @@
         "ExtraParam": [],
         "ExtraParamDesc": "",
         "ContentDirection": "U",
-        "ShowArrow": false,
+        "ShowArrow": true,
         "Content": "GuideFocusNew_1216_Content",
         "Button": [],
         "InputEnums": [],
@@ -26871,6 +26816,188 @@
         "ClickAnywhereShowTime": 0,
         "OnlyFrame": false,
         "OnlyText": true,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1217,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "桌面端",
+        "HookName": "T-共鸣技能",
+        "HookNameForShow": "T-共鸣技能",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1217_Content",
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1218,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "移动端",
+        "HookName": "T-共鸣技能",
+        "HookNameForShow": "T-共鸣技能",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1218_Content",
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1219,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "主机端",
+        "HookName": "T-手柄共鸣",
+        "HookNameForShow": "V-手柄共鸣",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1219_Content",
+        "Button": [],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1220,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "桌面端",
+        "HookName": "T-共鸣技能",
+        "HookNameForShow": "T-共鸣技能",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1220_Content",
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1221,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "移动端",
+        "HookName": "T-共鸣技能",
+        "HookNameForShow": "T-共鸣技能",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1221_Content",
+        "Button": [
+            "技能1"
+        ],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
+        "RoleHeadId": 0,
+        "TextInScreen": true
+    },
+    {
+        "GuideId": 1222,
+        "ViewName": "BattleView",
+        "DynamicTabName": "",
+        "Platform": "主机端",
+        "HookName": "T-手柄共鸣",
+        "HookNameForShow": "V-手柄共鸣",
+        "ExtraParam": [],
+        "ExtraParamDesc": "",
+        "ContentDirection": "U",
+        "ShowArrow": true,
+        "Content": "GuideFocusNew_1222_Content",
+        "Button": [],
+        "InputEnums": [
+            "技能1"
+        ],
+        "LimitInputEnums": [
+            "技能1"
+        ],
+        "ShowMouse": false,
+        "UseMask": true,
+        "UseClick": false,
+        "ClickAnywhere": false,
+        "ClickAnywhereShowTime": 0,
+        "OnlyFrame": false,
+        "OnlyText": false,
         "RoleHeadId": 0,
         "TextInScreen": true
     }

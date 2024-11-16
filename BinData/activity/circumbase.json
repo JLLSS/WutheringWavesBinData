@@ -208,5 +208,20 @@
         "Description": "",
         "RewardPreview": 0,
         "ShowCondition": true
+    },
+    {
+        "Id": 307,
+        "EntryType": 3,
+        "ArgId": [
+            1305
+        ],
+        "Title": "RecallActivity_Role_01",
+        "GachaId": 100011,
+        "SubTitle": "",
+        "BgPathF": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_ActivityRogue2Bg.png",
+        "BgPath": "/Game/Aki/UI/UIResources/Common/Image/BgCgBig/T_ActivityRogue2Bg.png",
+        "Description": "",
+        "RewardPreview": 0,
+        "ShowCondition": true
     }
 ]

@@ -1,0 +1,35 @@
+[
+    {
+        "Id": 1,
+        "ActivityId": 102500001,
+        "Title": "BlackCoastTheme_Title01",
+        "TitleDetail": "BlackCoastTheme_TitleDetail01",
+        "OpenConditionId": 13000083,
+        "QuestionId": 145000004,
+        "VideoSource": "/Game/Aki/UI/UIResources/UiActivity/Mp4/VideoHeihaian1.png",
+        "TextureSmall": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconS3.png",
+        "TextureNormal": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconNor3.png"
+    },
+    {
+        "Id": 2,
+        "ActivityId": 102500001,
+        "Title": "BlackCoastTheme_Title02",
+        "TitleDetail": "BlackCoastTheme_TitleDetail02",
+        "OpenConditionId": 13000084,
+        "QuestionId": 145000004,
+        "VideoSource": "/Game/Aki/UI/UIResources/UiActivity/Mp4/VideoHeihaian3.png",
+        "TextureSmall": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconS1.png",
+        "TextureNormal": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconNor1.png"
+    },
+    {
+        "Id": 3,
+        "ActivityId": 102500001,
+        "Title": "BlackCoastTheme_Title03",
+        "TitleDetail": "BlackCoastTheme_TitleDetail03",
+        "OpenConditionId": 13000085,
+        "QuestionId": 145000004,
+        "VideoSource": "/Game/Aki/UI/UIResources/UiActivity/Mp4/VideoHeihaian2.png",
+        "TextureSmall": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconS2.png",
+        "TextureNormal": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityHeihaian/Entry/T_CardIconNor2.png"
+    }
+]

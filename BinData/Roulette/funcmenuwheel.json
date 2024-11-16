@@ -1,0 +1,130 @@
+[
+    {
+        "FuncId": 10001,
+        "FuncName": "FunctionMenu_10053_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconActivity.png",
+        "FuncMenuSequence": 1,
+        "AutoEquip": true,
+        "UnlockCondition": 10053
+    },
+    {
+        "FuncId": 10002,
+        "FuncName": "FunctionMenu_10010_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShop.png",
+        "FuncMenuSequence": 2,
+        "AutoEquip": false,
+        "UnlockCondition": 10010
+    },
+    {
+        "FuncId": 10004,
+        "FuncName": "FunctionMenu_10009_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconGacha.png",
+        "FuncMenuSequence": 4,
+        "AutoEquip": true,
+        "UnlockCondition": 10009
+    },
+    {
+        "FuncId": 10003,
+        "FuncName": "FunctionMenu_10040_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBp.png",
+        "FuncMenuSequence": 3,
+        "AutoEquip": true,
+        "UnlockCondition": 10040
+    },
+    {
+        "FuncId": 10005,
+        "FuncName": "FunctionMenu_10001_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRole.png",
+        "FuncMenuSequence": 5,
+        "AutoEquip": true,
+        "UnlockCondition": 10001
+    },
+    {
+        "FuncId": 10006,
+        "FuncName": "FunctionMenu_10007_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTeam.png",
+        "FuncMenuSequence": 6,
+        "AutoEquip": true,
+        "UnlockCondition": 10007
+    },
+    {
+        "FuncId": 10007,
+        "FuncName": "FunctionMenu_10041_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMonster.png",
+        "FuncMenuSequence": 7,
+        "AutoEquip": false,
+        "UnlockCondition": 10003
+    },
+    {
+        "FuncId": 10008,
+        "FuncName": "FunctionMenu_10022_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBaike2.png",
+        "FuncMenuSequence": 8,
+        "AutoEquip": false,
+        "UnlockCondition": 10022
+    },
+    {
+        "FuncId": 10009,
+        "FuncName": "FunctionMenu_10023_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconManual.png",
+        "FuncMenuSequence": 9,
+        "AutoEquip": true,
+        "UnlockCondition": 10023
+    },
+    {
+        "FuncId": 10010,
+        "FuncName": "FunctionMenu_10004_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRenwu.png",
+        "FuncMenuSequence": 10,
+        "AutoEquip": true,
+        "UnlockCondition": 10004
+    },
+    {
+        "FuncId": 10011,
+        "FuncName": "FunctionMenu_10011_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconFriends.png",
+        "FuncMenuSequence": 11,
+        "AutoEquip": false,
+        "UnlockCondition": 10011
+    },
+    {
+        "FuncId": 10012,
+        "FuncName": "FunctionMenu_10013_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconAchievement.png",
+        "FuncMenuSequence": 12,
+        "AutoEquip": false,
+        "UnlockCondition": 10013
+    },
+    {
+        "FuncId": 10013,
+        "FuncName": "FunctionMenu_10015_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMap.png",
+        "FuncMenuSequence": 13,
+        "AutoEquip": false,
+        "UnlockCondition": 10015
+    },
+    {
+        "FuncId": 10014,
+        "FuncName": "FunctionMenu_10002_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBag.png",
+        "FuncMenuSequence": 14,
+        "AutoEquip": true,
+        "UnlockCondition": 10002
+    },
+    {
+        "FuncId": 10015,
+        "FuncName": "FunctionMenu_10026_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconExplore.png",
+        "FuncMenuSequence": 15,
+        "AutoEquip": false,
+        "UnlockCondition": 10026
+    },
+    {
+        "FuncId": 10016,
+        "FuncName": "FunctionMenu_10051_FunctionName",
+        "FuncMenuIconPath": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTujian.png",
+        "FuncMenuSequence": 16,
+        "AutoEquip": false,
+        "UnlockCondition": 10051
+    }
+]

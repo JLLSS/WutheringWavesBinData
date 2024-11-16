@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 1,
+        "MainSort": 1,
+        "MainName": "MainType_1_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyin.png"
+    },
+    {
+        "Id": 2,
+        "MainSort": 2,
+        "MainName": "MainType_2_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SEThuamian.png"
+    },
+    {
+        "Id": 3,
+        "MainSort": 4,
+        "MainName": "MainType_3_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 2,
+        "XboxTabPanelType": 2,
+        "PsTabPanelType": 2,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian.png"
+    },
+    {
+        "Id": 4,
+        "MainSort": 5,
+        "MainName": "MainType_4_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETwenzi.png"
+    },
+    {
+        "Id": 5,
+        "MainSort": 6,
+        "MainName": "MainType_5_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETshengyinzidingyi.png"
+    },
+    {
+        "Id": 6,
+        "MainSort": 3,
+        "MainName": "MainType_6_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan.png"
+    },
+    {
+        "Id": 7,
+        "MainSort": 7,
+        "MainName": "MainType_7_MainName",
+        "MainIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.png",
+        "TabPanelType": 1,
+        "PcTabPanelType": 1,
+        "XboxTabPanelType": 1,
+        "PsTabPanelType": 1,
+        "MainSmallIcon": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETyuyanzonglan1.png"
+    }
+]

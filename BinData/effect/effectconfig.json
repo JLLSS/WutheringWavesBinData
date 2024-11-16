@@ -1,0 +1,230 @@
+[
+    {
+        "Id": "RoleSkillTabEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Character_002.png"
+    },
+    {
+        "Id": "ChangeRoleEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_ChangeRole.png"
+    },
+    {
+        "Id": "ShowHideWeaponEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponStart.png"
+    },
+    {
+        "Id": "WeaponRootWeaponShowHideEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponEnd.png"
+    },
+    {
+        "Id": "WeaponLevelUpEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponLevelUp.png"
+    },
+    {
+        "Id": "WeaponResonanceUpEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponGongming.png"
+    },
+    {
+        "Id": "WeaponBreachEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_WeaponLevelBreak.png"
+    },
+    {
+        "Id": "RoleLevelUpEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Levelup02.png"
+    },
+    {
+        "Id": "ChipNoEquipEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_001.png"
+    },
+    {
+        "Id": "ChipEquipEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_002.png"
+    },
+    {
+        "Id": "ChipSuitEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Chip_003.png"
+    },
+    {
+        "Id": "WorldLevelUpEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Levelup01.png"
+    },
+    {
+        "Id": "ModelHideEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/3DUIScenes/DA_Fx_Group_Common_Particle.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectIce",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Ice.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectFire",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Fire.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectThunder",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Thunder.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectWind",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Wind.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectLight",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Light.png"
+    },
+    {
+        "Id": "RoleSkillTabEffectDark",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UIMap_Character_Sphere_Dark.png"
+    },
+    {
+        "Id": "CreateCharacterClickRole",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_CreateRole_Aperture.png"
+    },
+    {
+        "Id": "RoleSystemFloorEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/3DUIScenes/DA_Fx_Group_UIMap_Charact_Decal.png"
+    },
+    {
+        "Id": "ModelRoleBreachEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Role_Star.png"
+    },
+    {
+        "Id": "RoleBreachFinishEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Character_Break.png"
+    },
+    {
+        "Id": "ResonanceSwitchEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Role_Device_Replace.png"
+    },
+    {
+        "Id": "ResonanceActiveEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_DeviceCircle_Activate.png"
+    },
+    {
+        "Id": "ChangeRoleMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UIChangeRole.png"
+    },
+    {
+        "Id": "WeaponRootWeaponMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Weapon_Qiehuan_UI.png"
+    },
+    {
+        "Id": "ChangeWeaponMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponStart_UI.png"
+    },
+    {
+        "Id": "RoleLevelUpMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Levelup.DA_Fx_Levelup"
+    },
+    {
+        "Id": "CreateCharacterMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Character_Select.DA_Fx_Character_Select"
+    },
+    {
+        "Id": "WeaponLevelUpMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_WeaponLevlelUp.png"
+    },
+    {
+        "Id": "WeaponResonanceUpMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Weapongongming.png"
+    },
+    {
+        "Id": "WeaponBreachMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Weaponbreakthrough.png"
+    },
+    {
+        "Id": "RoleBreachFinishMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Break.DA_Fx_Break"
+    },
+    {
+        "Id": "RoleMaleBurstEyeMaterialController",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/Denglu/DA_Fx_Seq_Nanzhu_BurstEye.png"
+    },
+    {
+        "Id": "RoleFemaleBurstEyeMaterialController",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/Denglu/DA_Fx_Seq_Nvzhu_BurstEye.png"
+    },
+    {
+        "Id": "ConcertoResponseNiagara",
+        "Path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_Burst_Light_04"
+    },
+    {
+        "Id": "ConcertoResponseQTEShowNiagara",
+        "Path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightQTE_05"
+    },
+    {
+        "Id": "GoBattleMaterial",
+        "Path": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Group_ShowPlayer.DA_Fx_Group_ShowPlayer"
+    },
+    {
+        "Id": "GoDownMaterial",
+        "Path": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_HidePlayer.DA_Fx_HidePlayer"
+    },
+    {
+        "Id": "GachaMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UIChangeRole.png"
+    },
+    {
+        "Id": "GachaWeaponMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_W_UI.png"
+    },
+    {
+        "Id": "GachaBurstPurpleController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_P_UI.png"
+    },
+    {
+        "Id": "GachaBurstGoldController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_Y_UI.png"
+    },
+    {
+        "Id": "GachaBurstWhiteController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_WeaponGacha_W_UI.png"
+    },
+    {
+        "Id": "AttributeSwitchHandEffect",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_KeYin.png"
+    },
+    {
+        "Id": "AttributeSwitchBodyEffect",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_QieHuan.png"
+    },
+    {
+        "Id": "AttributePreviewHandEffect",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_Xinghen.png"
+    },
+    {
+        "Id": "AttributePreviewBodyEffect",
+        "Path": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/AttributeSwitch/DA_Fx_UI_Shengwen.png"
+    },
+    {
+        "Id": "ChooseCharacterMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_Xuanzhong_OL.DA_Fx_Xuanzhong_OL"
+    },
+    {
+        "Id": "VisionLevelUpEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_Setup_SH.png"
+    },
+    {
+        "Id": "VisionChangeEffect",
+        "Path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Shenghai_Change.png"
+    },
+    {
+        "Id": "VisionChangeController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Change_SH.png"
+    },
+    {
+        "Id": "VisionStepupController",
+        "Path": "/Game/Aki/Effect/MaterialController/Common/DA_Fx_UI_Setup_SH.png"
+    },
+    {
+        "Id": "DA_Fx_Group_Sl3_Cishi_10idle",
+        "Path": "/Game/Aki/Effect/EffectGroup/BigWorld/Cishi/DA_Fx_Group_Sl3_Cishi_10idle.DA_Fx_Group_Sl3_Cishi_10idle"
+    },
+    {
+        "Id": "DA_Fx_Group_Sl3_Cishi_10idle_02",
+        "Path": "/Game/Aki/Effect/EffectGroup/BigWorld/Cishi/DA_Fx_Group_Sl3_Cishi_10idle_02.DA_Fx_Group_Sl3_Cishi_10idle_02"
+    },
+    {
+        "Id": "DreamLinkLockMaterialController",
+        "Path": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Anke_Rouge_Born.DA_Fx_Anke_Rouge_Born"
+    }
+]

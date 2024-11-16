@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "MainTexPath": "Preheating_Title_01",
+        "CrestIndex": 0,
+        "ThemeBefore": "Preheating_Desc_01",
+        "ThemeAfter": "Preheating_Finish_Desc_01",
+        "QuestContent": "Preheating_Task_Desc_01",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto1.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto1.png"
+    },
+    {
+        "Id": 2,
+        "MainTexPath": "Preheating_Title_02",
+        "CrestIndex": 0,
+        "ThemeBefore": "Preheating_Desc_02",
+        "ThemeAfter": "Preheating_Finish_Desc_02",
+        "QuestContent": "Preheating_Task_Desc_02",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto2.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto2.png"
+    },
+    {
+        "Id": 3,
+        "MainTexPath": "Preheating_Title_03",
+        "CrestIndex": 0,
+        "ThemeBefore": "Preheating_Desc_03",
+        "ThemeAfter": "Preheating_Finish_Desc_03",
+        "QuestContent": "Preheating_Task_Desc_03",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto3.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto3.png"
+    },
+    {
+        "Id": 4,
+        "MainTexPath": "Preheating_Title_04",
+        "CrestIndex": 1,
+        "ThemeBefore": "Preheating_Desc_04",
+        "ThemeAfter": "Preheating_Finish_Desc_04",
+        "QuestContent": "Preheating_Task_Desc_04",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto4.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto4.png"
+    },
+    {
+        "Id": 5,
+        "MainTexPath": "Preheating_Title_05",
+        "CrestIndex": 1,
+        "ThemeBefore": "Preheating_Desc_05",
+        "ThemeAfter": "Preheating_Finish_Desc_05",
+        "QuestContent": "Preheating_Task_Desc_05",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto5.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto5.png"
+    },
+    {
+        "Id": 6,
+        "MainTexPath": "Preheating_Title_06",
+        "CrestIndex": 1,
+        "ThemeBefore": "Preheating_Desc_06",
+        "ThemeAfter": "Preheating_Finish_Desc_06",
+        "QuestContent": "Preheating_Task_Desc_06",
+        "DisplayTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatPhoto6.png",
+        "ShareTex": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityPreheat/T_ActivityPreheatSharePhoto6.png"
+    }
+]

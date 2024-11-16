@@ -1,0 +1,162 @@
+[
+    {
+        "Id": 10011011,
+        "Category": 1,
+        "Rate": -2000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_9.png",
+        "Title": "RogueBuffPool_10011001_BuffName",
+        "Describe": "RogueBuffPool_10011001_BuffDesc",
+        "DescriptionParam": [
+            "-20%"
+        ]
+    },
+    {
+        "Id": 10011012,
+        "Category": 1,
+        "Rate": -2000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_7.png",
+        "Title": "RogueBuffPool_10011002_BuffName",
+        "Describe": "RogueBuffPool_10011002_BuffDesc",
+        "DescriptionParam": [
+            "-20%"
+        ]
+    },
+    {
+        "Id": 10011013,
+        "Category": 1,
+        "Rate": -2000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_10.png",
+        "Title": "RogueBuffPool_10011003_BuffName",
+        "Describe": "RogueBuffPool_10011003_BuffDesc",
+        "DescriptionParam": [
+            "-20%"
+        ]
+    },
+    {
+        "Id": 10011014,
+        "Category": 1,
+        "Rate": -2000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_4.png",
+        "Title": "RogueBuffPool_10011004_BuffName",
+        "Describe": "RogueBuffPool_10011004_BuffDesc",
+        "DescriptionParam": [
+            "-20%"
+        ]
+    },
+    {
+        "Id": 10011015,
+        "Category": 1,
+        "Rate": -2000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_8.png",
+        "Title": "RogueBuffPool_10011005_BuffName",
+        "Describe": "RogueBuffPool_10011005_BuffDesc",
+        "DescriptionParam": [
+            "-20%"
+        ]
+    },
+    {
+        "Id": 10011016,
+        "Category": 0,
+        "Rate": 3000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_1.png",
+        "Title": "RogueBuffPool_10011006_BuffName",
+        "Describe": "RogueBuffPool_10011006_BuffDesc",
+        "DescriptionParam": [
+            "30%"
+        ]
+    },
+    {
+        "Id": 10011017,
+        "Category": 0,
+        "Rate": 5000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_2.png",
+        "Title": "RogueBuffPool_10011007_BuffName",
+        "Describe": "RogueBuffPool_10011007_BuffDesc",
+        "DescriptionParam": [
+            "50%"
+        ]
+    },
+    {
+        "Id": 10011018,
+        "Category": 0,
+        "Rate": 20000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_6.png",
+        "Title": "RogueBuffPool_10011008_BuffName",
+        "Describe": "RogueBuffPool_10011008_BuffDesc",
+        "DescriptionParam": [
+            "200%"
+        ]
+    },
+    {
+        "Id": 10011019,
+        "Category": 0,
+        "Rate": 5000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_3.png",
+        "Title": "RogueBuffPool_10011009_BuffName",
+        "Describe": "RogueBuffPool_10011009_BuffDesc",
+        "DescriptionParam": [
+            "50%"
+        ]
+    },
+    {
+        "Id": 10011020,
+        "Category": 0,
+        "Rate": 3000,
+        "Insts": [
+            8021,
+            8022,
+            8023
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_5.png",
+        "Title": "RogueBuffPool_10011010_BuffName",
+        "Describe": "RogueBuffPool_10011010_BuffDesc",
+        "DescriptionParam": [
+            "30%"
+        ]
+    }
+]

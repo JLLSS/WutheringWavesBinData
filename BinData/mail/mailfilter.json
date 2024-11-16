@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 1,
+        "IconPath": "/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabAll.png",
+        "Name": "Text_AllMail_Text"
+    },
+    {
+        "Id": 2,
+        "IconPath": "/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabUnread.png",
+        "Name": "Text_ImportantMail_Text"
+    },
+    {
+        "Id": 3,
+        "IconPath": "/Game/Aki/UI/UIResources/UiMail/Atlas/SP_MailTabRead.png",
+        "Name": "Text_UnReadMail_Text"
+    }
+]

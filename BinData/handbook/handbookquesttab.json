@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Name": "HandBookQuestTab_1_Title",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchiveQuest.png",
+        "Type": 9
+    },
+    {
+        "Id": 2,
+        "Name": "HandBookQuestTab_2_Title",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchiveRole.png",
+        "Type": 8
+    },
+    {
+        "Id": 3,
+        "Name": "HandBookQuestTab_3_Title",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchivePhoto.png",
+        "Type": 7
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 1,
+        "Icon": "/Game/Aki/UI/UIResources/UiActivity/Image/ChasingMoon/T_ChasingMoonRoleItemIcon3.png"
+    },
+    {
+        "Id": 2,
+        "Icon": "/Game/Aki/UI/UIResources/UiActivity/Image/ChasingMoon/T_ChasingMoonRoleItemIcon4.png"
+    },
+    {
+        "Id": 3,
+        "Icon": "/Game/Aki/UI/UIResources/UiActivity/Image/ChasingMoon/T_ChasingMoonRoleItemIcon2.png"
+    },
+    {
+        "Id": 4,
+        "Icon": "/Game/Aki/UI/UIResources/UiActivity/Image/ChasingMoon/T_ChasingMoonRoleItemIcon1.png"
+    }
+]

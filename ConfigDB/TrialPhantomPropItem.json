@@ -1,0 +1,3436 @@
+[
+    {
+        "Id": 1,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 37
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 45
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 14
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 19
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 12,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 1400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 750
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 750
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 950
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 17
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 18
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 11,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 700
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 13,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 800
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 50001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 30
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 50002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 456
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 50003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 20
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 880
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 836
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 528
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 760
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 640
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 5017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 360
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 456
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 5019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 360
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 40001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 22
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 40002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 228
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 40003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 15
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 330
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 495
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 495
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 627
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 396
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 570
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 480
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 4017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 270
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 342
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 4019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 270
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 30001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 20
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 30002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 152
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 30003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 13
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 293
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 586
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 557
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 352
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 506
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 427
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 3017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 240
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 304
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 3019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 240
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 20001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 18
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 20002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 114
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 20003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 12
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 275
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 550
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 412
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 412
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 522
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 330
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 475
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 2017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 225
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 285
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 2019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 225
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 100001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 37
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 45
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 750
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 100005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 750
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 100006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 950
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 100007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 14
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 17
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 18
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 19
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 700
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 1400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 100013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 800
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 150001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 30
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 150002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 456
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 150003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 20
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 880
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 836
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 528
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 600
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 760
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 640
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 105017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 360
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 456
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 105019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 360
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 140001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 22
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 140002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 228
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 140003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 15
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 330
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 660
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 495
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 495
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 627
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 396
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 450
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 570
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 480
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 104017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 270
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 342
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 104019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 270
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 130001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 20
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 130002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 152
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 130003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 13
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 293
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 586
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 440
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 557
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 352
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 506
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 427
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 103017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 240
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 304
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 103019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 240
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 120001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 18
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 120002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 114
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 120003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 12
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102001,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 8
+            },
+            {
+                "key": "Value",
+                "value": 275
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102002,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 9
+            },
+            {
+                "key": "Value",
+                "value": 550
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102003,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 412
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102004,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 412
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102005,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 522
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102006,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 35
+            },
+            {
+                "key": "Value",
+                "value": 330
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102007,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 22
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102008,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 23
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102009,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 24
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102010,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 25
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102011,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 26
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102012,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 27
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102013,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102014,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 375
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102015,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 475
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102016,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 11
+            },
+            {
+                "key": "Value",
+                "value": 400
+            },
+            {
+                "key": "IsRatio",
+                "value": false
+            }
+        ]
+    },
+    {
+        "Id": 102017,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10007
+            },
+            {
+                "key": "Value",
+                "value": 225
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102018,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10002
+            },
+            {
+                "key": "Value",
+                "value": 285
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    },
+    {
+        "Id": 102019,
+        "Prop": [
+            {
+                "key": "Id",
+                "value": 10010
+            },
+            {
+                "key": "Value",
+                "value": 225
+            },
+            {
+                "key": "IsRatio",
+                "value": true
+            }
+        ]
+    }
+]

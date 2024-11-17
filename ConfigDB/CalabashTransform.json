@@ -1,0 +1,48 @@
+[
+    {
+        "Id": 20900001,
+        "Location": [
+            {
+                "key": "X",
+                "value": 9
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 35
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 97
+            },
+            {
+                "key": "Y",
+                "value": 50
+            },
+            {
+                "key": "Z",
+                "value": 144
+            }
+        ],
+        "Size": [
+            {
+                "key": "X",
+                "value": 3
+            },
+            {
+                "key": "Y",
+                "value": 3
+            },
+            {
+                "key": "Z",
+                "value": 3
+            }
+        ],
+        "RotateTime": 80000
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "Id": 1,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": -19
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 90
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "Size": 0.4000000059604645,
+        "RotateTime": 20000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": -125
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "WeaponTypeTexture": "/Game/Aki/UI/UIResources/Common/Image/SkillIcon/SkillIconNor/T_IconNorSword.png"
+    },
+    {
+        "Id": 2,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": -13
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 90
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "Size": 0.4000000059604645,
+        "RotateTime": 20000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": -135
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "WeaponTypeTexture": "/Game/Aki/UI/UIResources/Common/Image/SkillIcon/SkillIconNor/T_IconNorKnife.png"
+    },
+    {
+        "Id": 3,
+        "Location": [
+            {
+                "key": "X",
+                "value": 5
+            },
+            {
+                "key": "Y",
+                "value": -6
+            },
+            {
+                "key": "Z",
+                "value": -8
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 90
+            },
+            {
+                "key": "Y",
+                "value": 23
+            },
+            {
+                "key": "Z",
+                "value": 130
+            }
+        ],
+        "Size": 1,
+        "RotateTime": 20000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "WeaponTypeTexture": "/Game/Aki/UI/UIResources/Common/Image/SkillIcon/SkillIconNor/T_IconNorGun.png"
+    },
+    {
+        "Id": 4,
+        "Location": [
+            {
+                "key": "X",
+                "value": 3
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": -3
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 60
+            },
+            {
+                "key": "Y",
+                "value": -15
+            },
+            {
+                "key": "Z",
+                "value": 120
+            }
+        ],
+        "Size": 0.699999988079071,
+        "RotateTime": 20000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 3
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "WeaponTypeTexture": "/Game/Aki/UI/UIResources/Common/Image/SkillIcon/SkillIconNor/T_IconNorFist.png"
+    },
+    {
+        "Id": 5,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 3
+            },
+            {
+                "key": "Z",
+                "value": 3
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 60
+            },
+            {
+                "key": "Y",
+                "value": -50
+            },
+            {
+                "key": "Z",
+                "value": 280
+            }
+        ],
+        "Size": 0.699999988079071,
+        "RotateTime": 0,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ],
+        "WeaponTypeTexture": "/Game/Aki/UI/UIResources/Common/Image/SkillIcon/SkillIconNor/T_IconNorMagic.png"
+    }
+]

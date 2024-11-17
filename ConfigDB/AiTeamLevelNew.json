@@ -1,0 +1,696 @@
+[
+    {
+        "Id": 1,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 6000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            3,
+            1
+        ],
+        "RangeRatio": [
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "Id": 2,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 2000
+            },
+            {
+                "key": "Max",
+                "value": 3000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            12,
+            10,
+            4
+        ]
+    },
+    {
+        "Id": 3,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 20,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 2000
+            },
+            {
+                "key": "Max",
+                "value": 3000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            12,
+            10,
+            4
+        ]
+    },
+    {
+        "Id": 4,
+        "PositionId": [
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 10000
+            },
+            {
+                "key": "Max",
+                "value": 11000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            0,
+            2,
+            1
+        ]
+    },
+    {
+        "Id": 100,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 10,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 0
+            },
+            {
+                "key": "Max",
+                "value": 0
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 6000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            3,
+            1
+        ],
+        "RangeRatio": [
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "Id": 801,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 500
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 500
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "Id": 802,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 3,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 200
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            12,
+            10,
+            4
+        ]
+    },
+    {
+        "Id": 94,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 1,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 4000
+            },
+            {
+                "key": "Max",
+                "value": 4100
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            4,
+            1
+        ],
+        "RangeRatio": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 901,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 30,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 0
+            },
+            {
+                "key": "Max",
+                "value": 200
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            12,
+            10,
+            4
+        ]
+    },
+    {
+        "Id": 5,
+        "PositionId": [
+            4,
+            5,
+            6
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 2000
+            },
+            {
+                "key": "Max",
+                "value": 5000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "Id": 9401,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 2,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 4000
+            },
+            {
+                "key": "Max",
+                "value": 4100
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 5000
+            },
+            {
+                "key": "Max",
+                "value": 7000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            4,
+            1
+        ],
+        "RangeRatio": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 803,
+        "PositionId": [
+            1,
+            2,
+            3
+        ],
+        "AllocationPeriodic": [
+            {
+                "key": "Min",
+                "value": 8000
+            },
+            {
+                "key": "Max",
+                "value": 10000
+            }
+        ],
+        "AttackerNum": 1,
+        "AttackCountDown": [
+            {
+                "key": "Min",
+                "value": 500
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "NoAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 500
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "BeAttackCountDown": [
+            {
+                "key": "Min",
+                "value": 100
+            },
+            {
+                "key": "Max",
+                "value": 100
+            }
+        ],
+        "EliteRatio": [
+            2,
+            1
+        ],
+        "RangeRatio": [
+            2,
+            3,
+            1
+        ]
+    }
+]

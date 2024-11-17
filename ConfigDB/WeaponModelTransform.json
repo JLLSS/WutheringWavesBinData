@@ -1,0 +1,312 @@
+[
+    {
+        "Id": 1,
+        "Location": [
+            {
+                "key": "X",
+                "value": -4
+            },
+            {
+                "key": "Y",
+                "value": 15
+            },
+            {
+                "key": "Z",
+                "value": 16
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 90
+            },
+            {
+                "key": "Y",
+                "value": -50
+            },
+            {
+                "key": "Z",
+                "value": -75
+            }
+        ],
+        "Size": 0.3499999940395355,
+        "RotateTime": 40000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 1.9808000326156616
+            },
+            {
+                "key": "Y",
+                "value": -2.3922998905181885
+            },
+            {
+                "key": "Z",
+                "value": 4.87939977645874
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Location": [
+            {
+                "key": "X",
+                "value": -3
+            },
+            {
+                "key": "Y",
+                "value": 11
+            },
+            {
+                "key": "Z",
+                "value": 14
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 90
+            },
+            {
+                "key": "Y",
+                "value": -50
+            },
+            {
+                "key": "Z",
+                "value": -75
+            }
+        ],
+        "Size": 0.4000000059604645,
+        "RotateTime": 40000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": -0.35899999737739563
+            },
+            {
+                "key": "Y",
+                "value": 1.1435999870300293
+            },
+            {
+                "key": "Z",
+                "value": 1.8392000198364258
+            }
+        ],
+        "ShowScabbard": true,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": -9
+            },
+            {
+                "key": "Z",
+                "value": -5
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 90
+            },
+            {
+                "key": "Y",
+                "value": 23
+            },
+            {
+                "key": "Z",
+                "value": 98
+            }
+        ],
+        "Size": 1,
+        "RotateTime": 40000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 3
+            },
+            {
+                "key": "Y",
+                "value": -6
+            },
+            {
+                "key": "Z",
+                "value": -3
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 2
+            },
+            {
+                "key": "Z",
+                "value": -5
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 46
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 160
+            }
+        ],
+        "Size": 0.8999999761581421,
+        "RotateTime": 40000,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 3
+            },
+            {
+                "key": "Y",
+                "value": -6
+            },
+            {
+                "key": "Z",
+                "value": -3
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Location": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": -6
+            },
+            {
+                "key": "Z",
+                "value": 8
+            }
+        ],
+        "Rotation": [
+            {
+                "key": "X",
+                "value": 60
+            },
+            {
+                "key": "Y",
+                "value": -50
+            },
+            {
+                "key": "Z",
+                "value": 100
+            }
+        ],
+        "Size": 0.8999999761581421,
+        "RotateTime": 0,
+        "ScabbardOffset": [
+            {
+                "key": "X",
+                "value": 3
+            },
+            {
+                "key": "Y",
+                "value": -6
+            },
+            {
+                "key": "Z",
+                "value": -3
+            }
+        ],
+        "ShowScabbard": false,
+        "AxisRotate": [
+            {
+                "key": "X",
+                "value": 0
+            },
+            {
+                "key": "Y",
+                "value": 0
+            },
+            {
+                "key": "Z",
+                "value": 0
+            }
+        ]
+    }
+]

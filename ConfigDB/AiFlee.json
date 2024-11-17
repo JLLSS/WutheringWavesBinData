@@ -1,0 +1,327 @@
+[
+    {
+        "Id": 1,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 1500
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -45
+            },
+            {
+                "key": "Max",
+                "value": 45
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 1000
+    },
+    {
+        "Id": 2,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -180
+            },
+            {
+                "key": "Max",
+                "value": 180
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 5000
+    },
+    {
+        "Id": 21001,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -180
+            },
+            {
+                "key": "Max",
+                "value": 180
+            }
+        ],
+        "FleeHeight": 1500,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21006,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -25
+            },
+            {
+                "key": "Max",
+                "value": 25
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21007,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -180
+            },
+            {
+                "key": "Max",
+                "value": 180
+            }
+        ],
+        "FleeHeight": 1500,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21008,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -90
+            },
+            {
+                "key": "Max",
+                "value": 90
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21012,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -35
+            },
+            {
+                "key": "Max",
+                "value": 35
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21015,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -35
+            },
+            {
+                "key": "Max",
+                "value": 35
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21017,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -30
+            },
+            {
+                "key": "Max",
+                "value": 30
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 3000
+    },
+    {
+        "Id": 21018,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 700
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -15
+            },
+            {
+                "key": "Max",
+                "value": 15
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 3000
+    },
+    {
+        "Id": 21023,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 1000
+            },
+            {
+                "key": "Max",
+                "value": 2000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -25
+            },
+            {
+                "key": "Max",
+                "value": 25
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 21026,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 500
+            },
+            {
+                "key": "Max",
+                "value": 1000
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -25
+            },
+            {
+                "key": "Max",
+                "value": 25
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 10000
+    },
+    {
+        "Id": 70112,
+        "FleeDistance": [
+            {
+                "key": "Min",
+                "value": 600
+            },
+            {
+                "key": "Max",
+                "value": 900
+            }
+        ],
+        "FleeAngle": [
+            {
+                "key": "Min",
+                "value": -90
+            },
+            {
+                "key": "Max",
+                "value": 90
+            }
+        ],
+        "FleeHeight": 0,
+        "TimeMilliseconds": 8000
+    }
+]
